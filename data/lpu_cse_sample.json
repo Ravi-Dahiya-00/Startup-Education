@@ -1,0 +1,37 @@
+{
+  "university": "Lovely Professional University",
+  "course": "B.Tech. Computer Science and Engineering (CSE)",
+  "years": [
+    {
+      "year": 1,
+      "terms": [
+        {
+          "term": "Autumn Term",
+          "subjects": [
+            "BASIC ELECTRICAL AND ELECTRONICS ENGINEERING",
+            "BASIC ELECTRICAL AND ELECTRONICS ENGINEERING LABORATORY",
+            "ENGINEERING MATHEMATICS",
+            "ENGINEERING PHYSICS",
+            "INTERNET PROGRAMMING LABORATORY",
+            "ORIENTATION TO COMPUTING-I",
+            "PYTHON PROGRAMMING",
+            "SOFT SKILLS-I"
+          ]
+        },
+        {
+          "term": "Spring Term",
+          "subjects": [
+            "COMPUTER PROGRAMMING",
+            "DATABASE MANAGEMENT SYSTEMS",
+            "DISCRETE MATHEMATICS",
+            "ENGINEERING DRAWING WITH AUTOCAD",
+            "ENVIRONMENTAL STUDIES",
+            "LANGUAGE ELECTIVE 1",
+            "ORIENTATION TO COMPUTING-II",
+            "SOFTWARE ENGINEERING"
+          ]
+        }
+      ]
+    }
+  ]
+}

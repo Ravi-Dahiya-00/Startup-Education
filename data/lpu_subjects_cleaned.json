@@ -1,0 +1,2831 @@
+{
+  "university": "Lovely Professional University",
+  "source": "Studocu",
+  "cleanedAt": "2025-12-04T11:08:43.184Z",
+  "totalSubjects": 567,
+  "subjects": [
+    {
+      "name": "Abstract Algebra",
+      "codes": [
+        "DMTH403"
+      ]
+    },
+    {
+      "name": "Academic English",
+      "codes": [
+        "DEENG539"
+      ]
+    },
+    {
+      "name": "accountsacc201"
+    },
+    {
+      "name": "Adv Flight Mechanics",
+      "codes": [
+        "ASE303"
+      ]
+    },
+    {
+      "name": "Advance communicationPel135"
+    },
+    {
+      "name": "Advance creo modelling",
+      "codes": [
+        "MEC302"
+      ]
+    },
+    {
+      "name": "Advance Creo ModellingMEC"
+    },
+    {
+      "name": "Advance Devops",
+      "codes": [
+        "INT332",
+        "INT333"
+      ]
+    },
+    {
+      "name": "Advance Web DevelopmentInt222"
+    },
+    {
+      "name": "Advanced Analytical Skills -",
+      "codes": [
+        "IPEA307"
+      ]
+    },
+    {
+      "name": "Advanced Analytics",
+      "codes": [
+        "PEA 308"
+      ]
+    },
+    {
+      "name": "Advanced AuditAAA"
+    },
+    {
+      "name": "Advanced Communication skills",
+      "codes": [
+        "PEL 130"
+      ]
+    },
+    {
+      "name": "Advanced Java",
+      "codes": [
+        "CSE406"
+      ]
+    },
+    {
+      "name": "Advanced Verbal Ability",
+      "codes": [
+        "PEV114"
+      ]
+    },
+    {
+      "name": "AerodynamicsAse210"
+    },
+    {
+      "name": "Aerospace Materials and processes",
+      "codes": [
+        "ASE102"
+      ]
+    },
+    {
+      "name": "Aerospace Structures-",
+      "codes": [
+        "IASE 103"
+      ]
+    },
+    {
+      "name": "Agile Driven Development & Project Management",
+      "codes": [
+        "INT 372"
+      ]
+    },
+    {
+      "name": "Agile Software Methodology",
+      "codes": [
+        "INT 531"
+      ]
+    },
+    {
+      "name": "Agriculture"
+    },
+    {
+      "name": "AI and Expert Systems",
+      "codes": [
+        "CSE 209"
+      ]
+    },
+    {
+      "name": "Aircraft Structures",
+      "codes": [
+        "PST101"
+      ]
+    },
+    {
+      "name": "Algorithm design and analysis",
+      "codes": [
+        "CAP 538"
+      ]
+    },
+    {
+      "name": "Alternate Dispute Resolution",
+      "codes": [
+        "LAW503"
+      ]
+    },
+    {
+      "name": "analytical skills",
+      "codes": [
+        "VPEAS05"
+      ]
+    },
+    {
+      "name": "Analytical Skills -",
+      "codes": [
+        "IPEA 305",
+        "IIPEA 306"
+      ]
+    },
+    {
+      "name": "Analytical Skills Workbook PEA 306 - Essential Aptitude Practice GuideSoftware Engineering"
+    },
+    {
+      "name": "AnatomíaAnatomía"
+    },
+    {
+      "name": "ancient history",
+      "codes": [
+        "DHIS101"
+      ]
+    },
+    {
+      "name": "Android App Deployment",
+      "codes": [
+        "CSE226"
+      ]
+    },
+    {
+      "name": "Android app development",
+      "codes": [
+        "CSE224"
+      ]
+    },
+    {
+      "name": "Android Development",
+      "codes": [
+        "CSE225"
+      ]
+    },
+    {
+      "name": "Aptitude"
+    },
+    {
+      "name": "Artificial Intelligence",
+      "codes": [
+        "CAP 378",
+        "CAP-653",
+        "INT426",
+        "INT 404"
+      ]
+    },
+    {
+      "name": "Artificial Intelligence Essentials",
+      "codes": [
+        "INT428"
+      ]
+    },
+    {
+      "name": "Artificial intelligenceCse428"
+    },
+    {
+      "name": "Artificial intelligenceInt404"
+    },
+    {
+      "name": "Artifitial Intelligence-lab",
+      "codes": [
+        "CAP-379"
+      ]
+    },
+    {
+      "name": "Astrophysics"
+    },
+    {
+      "name": "Automata",
+      "codes": [
+        "CSE322"
+      ]
+    },
+    {
+      "name": "Automobile Drawing",
+      "codes": [
+        "ATE 201"
+      ]
+    },
+    {
+      "name": "B.com (Hons.)BCH1"
+    },
+    {
+      "name": "B.Sc Information TechnologyB.Sc IT"
+    },
+    {
+      "name": "B.Tech",
+      "codes": [
+        "CSE-320"
+      ]
+    },
+    {
+      "name": "B.tech CivilPHY-109,",
+      "codes": [
+        "ECE-131"
+      ]
+    },
+    {
+      "name": "B.tech CSE"
+    },
+    {
+      "name": "Bachelor of  Arts4120-S"
+    },
+    {
+      "name": "Backend Development",
+      "codes": [
+        "IICSE219"
+      ]
+    },
+    {
+      "name": "BALLB (Hons.)",
+      "codes": [
+        "LAW201"
+      ]
+    },
+    {
+      "name": "Banking and Insurance",
+      "codes": [
+        "DMGT303"
+      ]
+    },
+    {
+      "name": "Basic Computer Skills",
+      "codes": [
+        "DCAP101"
+      ]
+    },
+    {
+      "name": "Basic Electrical And Electronics Engineering",
+      "codes": [
+        "ECE249"
+      ]
+    },
+    {
+      "name": "Basic Electrical and Electronics Engineering Laboratory",
+      "codes": [
+        "ECE279"
+      ]
+    },
+    {
+      "name": "Basic electronics",
+      "codes": [
+        "ECE131"
+      ]
+    },
+    {
+      "name": "basic engineering laboratory",
+      "codes": [
+        "ECE216"
+      ]
+    },
+    {
+      "name": "basic financial managementfin212"
+    },
+    {
+      "name": "Basic German",
+      "codes": [
+        "GER106"
+      ]
+    },
+    {
+      "name": "Basic mechinical engineering",
+      "codes": [
+        "MEC138"
+      ]
+    },
+    {
+      "name": "Basic of Aerospace",
+      "codes": [
+        "ASE101"
+      ]
+    },
+    {
+      "name": "Basic of Mechanics",
+      "codes": [
+        "MEC 135"
+      ]
+    },
+    {
+      "name": "basic php and website creating",
+      "codes": [
+        "CSE67D"
+      ]
+    },
+    {
+      "name": "Basics Of Mechanical Engineering",
+      "codes": [
+        "MEC135",
+        "MEC 135"
+      ]
+    },
+    {
+      "name": "batchelor at law"
+    },
+    {
+      "name": "BBA International Finance",
+      "codes": [
+        "ACC221",
+        "PB 320"
+      ]
+    },
+    {
+      "name": "Bca (big Data Analytics)"
+    },
+    {
+      "name": "bcaaapel 200"
+    },
+    {
+      "name": "Big Data Fundamentals",
+      "codes": [
+        "INT312"
+      ]
+    },
+    {
+      "name": "Bio safety and bio ethics",
+      "codes": [
+        "BTY196"
+      ]
+    },
+    {
+      "name": "Bioanalytical Techniques",
+      "codes": [
+        "BTY316"
+      ]
+    },
+    {
+      "name": "Bioinformatics"
+    },
+    {
+      "name": "Biomedical Engineering",
+      "codes": [
+        "MTH110"
+      ]
+    },
+    {
+      "name": "Biomolecules and Metabolism"
+    },
+    {
+      "name": "Bioprocess calculation",
+      "codes": [
+        "BTY 733"
+      ]
+    },
+    {
+      "name": "Biotechnology"
+    },
+    {
+      "name": "BMLT Internship Report: Practical Experience at Midnapore City Collegemedical lab"
+    },
+    {
+      "name": "British Literature 18th-20th Century",
+      "codes": [
+        "DEENG115"
+      ]
+    },
+    {
+      "name": "Bsc nutrition and dietics",
+      "codes": [
+        "FOT126"
+      ]
+    },
+    {
+      "name": "bsc.forensic science",
+      "codes": [
+        "BIO045"
+      ]
+    },
+    {
+      "name": "BTECH Computer science and engineeringP132"
+    },
+    {
+      "name": "btech food tech"
+    },
+    {
+      "name": "Business Administration",
+      "codes": [
+        "OL3521"
+      ]
+    },
+    {
+      "name": "Business Analytics",
+      "codes": [
+        "MGNM 801"
+      ]
+    },
+    {
+      "name": "Business Analytics ii",
+      "codes": [
+        "MKTM 504"
+      ]
+    },
+    {
+      "name": "Business and Sustainbilitymgnm831"
+    },
+    {
+      "name": "Business economics",
+      "codes": [
+        "ECO113"
+      ]
+    },
+    {
+      "name": "Business environment",
+      "codes": [
+        "MGN303"
+      ]
+    },
+    {
+      "name": "Business Ethics",
+      "codes": [
+        "MGN253"
+      ]
+    },
+    {
+      "name": "Business Law",
+      "codes": [
+        "BSL101"
+      ]
+    },
+    {
+      "name": "business marketingmkt 303"
+    },
+    {
+      "name": "Business Mathematics and Statistics",
+      "codes": [
+        "QTT201"
+      ]
+    },
+    {
+      "name": "Business Organisation and Management",
+      "codes": [
+        "MGN101"
+      ]
+    },
+    {
+      "name": "business statistics and analytics for decision maling",
+      "codes": [
+        "QTT509"
+      ]
+    },
+    {
+      "name": "business to business marketingb2b mkt"
+    },
+    {
+      "name": "c languagecse101"
+    },
+    {
+      "name": "c# and .net",
+      "codes": [
+        "INT402"
+      ]
+    },
+    {
+      "name": "Capstone Project",
+      "codes": [
+        "CSE445"
+      ]
+    },
+    {
+      "name": "Career planning",
+      "codes": [
+        "MGN100M"
+      ]
+    },
+    {
+      "name": "Career Planning 2",
+      "codes": [
+        "MGN200M"
+      ]
+    },
+    {
+      "name": "CAT interview Questions"
+    },
+    {
+      "name": "CDP instruction"
+    },
+    {
+      "name": "CDP on yoga"
+    },
+    {
+      "name": "CDP project",
+      "codes": [
+        "GEN 231"
+      ]
+    },
+    {
+      "name": "CHE110 End Term Sample Paper: Environmental Studies ExamEnvironmental Chemistry"
+    },
+    {
+      "name": "Chemical Engineering",
+      "codes": [
+        "CHE112"
+      ]
+    },
+    {
+      "name": "Chemistry in Daily Life",
+      "codes": [
+        "CHE882"
+      ]
+    },
+    {
+      "name": "Chemistry of Hardness, Alkalinity and Contaminants",
+      "codes": [
+        "CHE280"
+      ]
+    },
+    {
+      "name": "cisco packetece418"
+    },
+    {
+      "name": "Civils Services",
+      "codes": [
+        "IAS-100"
+      ]
+    },
+    {
+      "name": "Clinical Mirobiology"
+    },
+    {
+      "name": "cloud application developementcsi 331"
+    },
+    {
+      "name": "Cloud Computing",
+      "codes": [
+        "CSE423"
+      ]
+    },
+    {
+      "name": "Cloud EssentialsINt362"
+    },
+    {
+      "name": "Clouds computingCse427"
+    },
+    {
+      "name": "cloudsim",
+      "codes": [
+        "INT337"
+      ]
+    },
+    {
+      "name": "Cluster Computing",
+      "codes": [
+        "INT 315"
+      ]
+    },
+    {
+      "name": "Codetantra"
+    },
+    {
+      "name": "Coding Pearls",
+      "codes": [
+        "CSE331"
+      ]
+    },
+    {
+      "name": "combinatorial studies",
+      "codes": [
+        "CSE 357"
+      ]
+    },
+    {
+      "name": "Combinatorial Studies-",
+      "codes": [
+        "IIICSE335"
+      ]
+    },
+    {
+      "name": "Commodity Market",
+      "codes": [
+        "FIN210"
+      ]
+    },
+    {
+      "name": "Communication Skills",
+      "codes": [
+        "IPEL121",
+        "PEL 125"
+      ]
+    },
+    {
+      "name": "Communication Skills ll",
+      "codes": [
+        "PEL 132"
+      ]
+    },
+    {
+      "name": "Communication Skills-ii",
+      "codes": [
+        "PEL131"
+      ]
+    },
+    {
+      "name": "communication skillspel136"
+    },
+    {
+      "name": "Communications Skills",
+      "codes": [
+        "IIPEL 132"
+      ]
+    },
+    {
+      "name": "Community development",
+      "codes": [
+        "MGN231"
+      ]
+    },
+    {
+      "name": "Community development project",
+      "codes": [
+        "GEN 231"
+      ]
+    },
+    {
+      "name": "Community Physiotherapy"
+    },
+    {
+      "name": "Company law2091"
+    },
+    {
+      "name": "Comparative Politics",
+      "codes": [
+        "POL220"
+      ]
+    },
+    {
+      "name": "Competitive Coding Approaches",
+      "codes": [
+        "CSE330"
+      ]
+    },
+    {
+      "name": "Complex Algebra",
+      "codes": [
+        "MTH213"
+      ]
+    },
+    {
+      "name": "Complex Analysis and Differential Geometry",
+      "codes": [
+        "DMTH402"
+      ]
+    },
+    {
+      "name": "Computer ApplicationD2001"
+    },
+    {
+      "name": "Computer Graphics",
+      "codes": [
+        "DCAP504"
+      ]
+    },
+    {
+      "name": "Computer graphics and visualization",
+      "codes": [
+        "CSE304"
+      ]
+    },
+    {
+      "name": "Computer Networks",
+      "codes": [
+        "CSE306"
+      ]
+    },
+    {
+      "name": "computer networks laboratorycap-257"
+    },
+    {
+      "name": "Computer Organisation and Design",
+      "codes": [
+        "CSE211"
+      ]
+    },
+    {
+      "name": "Computer Organization AND Architecture",
+      "codes": [
+        "DCAP502"
+      ]
+    },
+    {
+      "name": "Computer Organization and Design"
+    },
+    {
+      "name": "Computer parts",
+      "codes": [
+        "CSE111"
+      ]
+    },
+    {
+      "name": "Computer Science",
+      "codes": [
+        "CSE101"
+      ]
+    },
+    {
+      "name": "Computer System Architecture",
+      "codes": [
+        "CAP268"
+      ]
+    },
+    {
+      "name": "computer visionint345"
+    },
+    {
+      "name": "Computing Professional  Practices and Ethics",
+      "codes": [
+        "CAP316"
+      ]
+    },
+    {
+      "name": "constitution lawlaw 399"
+    },
+    {
+      "name": "Constitutional Law"
+    },
+    {
+      "name": "Contemporary Drama",
+      "codes": [
+        "ENG 608"
+      ]
+    },
+    {
+      "name": "Contemporary Short Stories",
+      "codes": [
+        "ENG606"
+      ]
+    },
+    {
+      "name": "Control Systems",
+      "codes": [
+        "ECE305"
+      ]
+    },
+    {
+      "name": "coordinated science0654"
+    },
+    {
+      "name": "Copyright and Trademark",
+      "codes": [
+        "LAW351"
+      ]
+    },
+    {
+      "name": "Core Mathematics",
+      "codes": [
+        "MTH 174"
+      ]
+    },
+    {
+      "name": "Corporate Finance",
+      "codes": [
+        "FIN 501",
+        "FINM542"
+      ]
+    },
+    {
+      "name": "Corporate law"
+    },
+    {
+      "name": "Corporate stategy",
+      "codes": [
+        "MGN600"
+      ]
+    },
+    {
+      "name": "Corporate Strategy",
+      "codes": [
+        "MGN571"
+      ]
+    },
+    {
+      "name": "Cost and Management Accounting",
+      "codes": [
+        "ACC205"
+      ]
+    },
+    {
+      "name": "Cprogramming",
+      "codes": [
+        "CAP 806"
+      ]
+    },
+    {
+      "name": "Criminal Law",
+      "codes": [
+        "LAW 319"
+      ]
+    },
+    {
+      "name": "Crop improvement 1",
+      "codes": [
+        "GPB 301"
+      ]
+    },
+    {
+      "name": "CSE 306 End Term Exam Study GuideNetworks"
+    },
+    {
+      "name": "CSE-111 Effective Time Management Strategies for ProductivityOrientation to computing"
+    },
+    {
+      "name": "CSE310: Final Exam Study Guide for Programming in JavaProgramming in java"
+    },
+    {
+      "name": "CSE332: Barber Shop Booking System - Assignment OverviewIndustry Ethics And Legal Issues"
+    },
+    {
+      "name": "cunning computercse669"
+    },
+    {
+      "name": "Customer Relationship Management",
+      "codes": [
+        "MKT517"
+      ]
+    },
+    {
+      "name": "Cyber Psychology",
+      "codes": [
+        "PSY722"
+      ]
+    },
+    {
+      "name": "Cyber Security",
+      "codes": [
+        "INT 242"
+      ]
+    },
+    {
+      "name": "d printing",
+      "codes": [
+        "MEC400D"
+      ]
+    },
+    {
+      "name": "Data Communication and Computernetworks",
+      "codes": [
+        "CSR 121"
+      ]
+    },
+    {
+      "name": "data communication and networking lab",
+      "codes": [
+        "CAP276"
+      ]
+    },
+    {
+      "name": "Data Minningcse 345"
+    },
+    {
+      "name": "data science in python",
+      "codes": [
+        "PETV329"
+      ]
+    },
+    {
+      "name": "Data Science Toolbox : R Programming",
+      "codes": [
+        "INT232"
+      ]
+    },
+    {
+      "name": "Data science with python",
+      "codes": [
+        "CSD 201"
+      ]
+    },
+    {
+      "name": "data scienceint217"
+    },
+    {
+      "name": "Data structure course"
+    },
+    {
+      "name": "Data Structures",
+      "codes": [
+        "CSE 228",
+        "CSE228",
+        "DCAP407"
+      ]
+    },
+    {
+      "name": "Data Structures and algocse256"
+    },
+    {
+      "name": "Data StructuresCse-205"
+    },
+    {
+      "name": "Data Visualization",
+      "codes": [
+        "INT 350"
+      ]
+    },
+    {
+      "name": "data Visualization (TABLUE)",
+      "codes": [
+        "INT 233"
+      ]
+    },
+    {
+      "name": "Database Management Systems",
+      "codes": [
+        "INT306",
+        "CAP-200"
+      ]
+    },
+    {
+      "name": "DBMS & SQL Lecture Notes: Key Concepts and DefinitionsDatabase management systems"
+    },
+    {
+      "name": "DC Circuits - Unit 1 Overview and Key ConceptsElectronics and Communication"
+    },
+    {
+      "name": "Deep Learning",
+      "codes": [
+        "INT 422",
+        "INT422"
+      ]
+    },
+    {
+      "name": "Design Analysis and algorithms",
+      "codes": [
+        "CSE 230"
+      ]
+    },
+    {
+      "name": "Design and analysis of algorithmcse408"
+    },
+    {
+      "name": "Design and Analysis of Algorithms",
+      "codes": [
+        "CSE408"
+      ]
+    },
+    {
+      "name": "Design and Thinkingint 335"
+    },
+    {
+      "name": "Design of Experiments and Reliability",
+      "codes": [
+        "MEC422"
+      ]
+    },
+    {
+      "name": "Design Thinking",
+      "codes": [
+        "CSR 102",
+        "MGNM846"
+      ]
+    },
+    {
+      "name": "Designing and school of architecture",
+      "codes": [
+        "PID 312"
+      ]
+    },
+    {
+      "name": "Devops Overview"
+    },
+    {
+      "name": "Differential Equations and Vector Calculus",
+      "codes": [
+        "MTH 166"
+      ]
+    },
+    {
+      "name": "Digital Electronics",
+      "codes": [
+        "ECE210",
+        "ECE213",
+        "ECE23D"
+      ]
+    },
+    {
+      "name": "Digital Electronics Lab",
+      "codes": [
+        "ECE313"
+      ]
+    },
+    {
+      "name": "Digital marketing",
+      "codes": [
+        "MKT 309"
+      ]
+    },
+    {
+      "name": "digital marketingmkt309"
+    },
+    {
+      "name": "Digital Signal Processing",
+      "codes": [
+        "ECE303"
+      ]
+    },
+    {
+      "name": "Digital system design using verilog",
+      "codes": [
+        "ECE290"
+      ]
+    },
+    {
+      "name": "Digital transformation",
+      "codes": [
+        "HRMM360"
+      ]
+    },
+    {
+      "name": "Disaster Management",
+      "codes": [
+        "GEO 801"
+      ]
+    },
+    {
+      "name": "Discrete Mathematics",
+      "codes": [
+        "MTH 401",
+        "MTH136",
+        "MTH401",
+        "MTH402"
+      ]
+    },
+    {
+      "name": "Discrete Mathematics For Computing",
+      "codes": [
+        "MTH265"
+      ]
+    },
+    {
+      "name": "Discrete maths136"
+    },
+    {
+      "name": "DiscreteMathematics401"
+    },
+    {
+      "name": "Diseases of Field and Horticultural Crops and their Management",
+      "codes": [
+        "PTH313"
+      ]
+    },
+    {
+      "name": "distributed cloud computingcsr 204"
+    },
+    {
+      "name": "Doctorate of PhilosophyPhD123"
+    },
+    {
+      "name": "dom 2 for automobile",
+      "codes": [
+        "ATE 303"
+      ]
+    },
+    {
+      "name": "dsa self placedcse 322"
+    },
+    {
+      "name": "E Commerce and E business",
+      "codes": [
+        "DACAP511"
+      ]
+    },
+    {
+      "name": "E-commerce",
+      "codes": [
+        "MGN358"
+      ]
+    },
+    {
+      "name": "ECE - 249 Comprehensive Study NotesElectronics and Communication"
+    },
+    {
+      "name": "ECE131 UNIT-4 Semiconductor Devices Overview and Key ConceptsBasic electronics"
+    },
+    {
+      "name": "Ecectrical",
+      "codes": [
+        "ECE 213"
+      ]
+    },
+    {
+      "name": "Economics",
+      "codes": [
+        "ECON101"
+      ]
+    },
+    {
+      "name": "Economics for engineersEco 301"
+    },
+    {
+      "name": "Economics mba",
+      "codes": [
+        "ECOM525"
+      ]
+    },
+    {
+      "name": "EDA and Statistics",
+      "codes": [
+        "INT351"
+      ]
+    },
+    {
+      "name": "EDA Project",
+      "codes": [
+        "INT-353"
+      ]
+    },
+    {
+      "name": "Electrical and Electronics EngineeringP13A"
+    },
+    {
+      "name": "Electromagnetic TheoryPhy 109"
+    },
+    {
+      "name": "Electronics and Communication",
+      "codes": [
+        "ECE 249"
+      ]
+    },
+    {
+      "name": "Electronics Devices And Circuits",
+      "codes": [
+        "ECE 206"
+      ]
+    },
+    {
+      "name": "Electronics practical",
+      "codes": [
+        "ECE 132"
+      ]
+    },
+    {
+      "name": "Embedded Systems",
+      "codes": [
+        "ECE227"
+      ]
+    },
+    {
+      "name": "emerging technoogies for managersmgn575"
+    },
+    {
+      "name": "Energy Conservation",
+      "codes": [
+        "ELE 89D"
+      ]
+    },
+    {
+      "name": "ENG608: Contemporary Drama Syllabus and Course OutcomesContemporary Drama"
+    },
+    {
+      "name": "Engineering Chemistry",
+      "codes": [
+        "CHE124"
+      ]
+    },
+    {
+      "name": "Engineering Drawing",
+      "codes": [
+        "MEC136"
+      ]
+    },
+    {
+      "name": "Engineering graphics",
+      "codes": [
+        "MEC103"
+      ]
+    },
+    {
+      "name": "Engineering graphics and digital fabricationMec 136"
+    },
+    {
+      "name": "Engineering Mathematics",
+      "codes": [
+        "MTH174"
+      ]
+    },
+    {
+      "name": "Engineering Mathematics Part 3",
+      "codes": [
+        "MTH167"
+      ]
+    },
+    {
+      "name": "Engineering Physics",
+      "codes": [
+        "PHY110"
+      ]
+    },
+    {
+      "name": "Engineering physics110"
+    },
+    {
+      "name": "engineering workshopmec108"
+    },
+    {
+      "name": "English Core301"
+    },
+    {
+      "name": "EnglishPel 121"
+    },
+    {
+      "name": "engneering phyphy110"
+    },
+    {
+      "name": "Entrepreneurship and Business Fundamentals",
+      "codes": [
+        "ERT 425"
+      ]
+    },
+    {
+      "name": "enviormental chemistryche882"
+    },
+    {
+      "name": "Environmental Chemistry",
+      "codes": [
+        "CHE110",
+        "CHE883"
+      ]
+    },
+    {
+      "name": "Environmental law"
+    },
+    {
+      "name": "Epam CLOUD AND",
+      "codes": [
+        "DEVOSCSE441"
+      ]
+    },
+    {
+      "name": "Event management",
+      "codes": [
+        "HMT179"
+      ]
+    },
+    {
+      "name": "Event Management System SRS (K23CH) - Version 1.0 DetailsSoftware Engineering"
+    },
+    {
+      "name": "Event managemnt",
+      "codes": [
+        "HMT804"
+      ]
+    },
+    {
+      "name": "Family Law",
+      "codes": [
+        "FAM 121"
+      ]
+    },
+    {
+      "name": "family lawlaw206"
+    },
+    {
+      "name": "Fashion",
+      "codes": [
+        "FST700"
+      ]
+    },
+    {
+      "name": "Fashion Process Design",
+      "codes": [
+        "CSE803"
+      ]
+    },
+    {
+      "name": "Field Study",
+      "codes": [
+        "ARC398"
+      ]
+    },
+    {
+      "name": "Financial Accounting",
+      "codes": [
+        "ACC 110"
+      ]
+    },
+    {
+      "name": "Financial Accounting and Analysis",
+      "codes": [
+        "ACC506"
+      ]
+    },
+    {
+      "name": "financial derivativesFin550"
+    },
+    {
+      "name": "Financial ManagementP371"
+    },
+    {
+      "name": "Fluid Mechanics",
+      "codes": [
+        "MEC207"
+      ]
+    },
+    {
+      "name": "Fluid mechanics labMec212"
+    },
+    {
+      "name": "Fmpmc",
+      "codes": [
+        "ECE310"
+      ]
+    },
+    {
+      "name": "Food biochemistry and nutrition",
+      "codes": [
+        "FOT 211"
+      ]
+    },
+    {
+      "name": "food engneeringfot529"
+    },
+    {
+      "name": "Food processing",
+      "codes": [
+        "FOT 256"
+      ]
+    },
+    {
+      "name": "Food Science and Nutrition",
+      "codes": [
+        "FOT339"
+      ]
+    },
+    {
+      "name": "forensic scienceFsc 102"
+    },
+    {
+      "name": "French",
+      "codes": [
+        "FRN 101"
+      ]
+    },
+    {
+      "name": "Front End Web Developer",
+      "codes": [
+        "INT219"
+      ]
+    },
+    {
+      "name": "Frontend Development with React - Course Completion CertificateFull Stack Web Development"
+    },
+    {
+      "name": "Full Stack Web Development",
+      "codes": [
+        "FSWD22"
+      ]
+    },
+    {
+      "name": "Fundamental of Financial management",
+      "codes": [
+        "MGN302"
+      ]
+    },
+    {
+      "name": "Fundamental of Statistics",
+      "codes": [
+        "MGNM511M"
+      ]
+    },
+    {
+      "name": "Fundamentals of Clinical Psychology",
+      "codes": [
+        "PSY570"
+      ]
+    },
+    {
+      "name": "fundamentals of design",
+      "codes": [
+        "IFD801"
+      ]
+    },
+    {
+      "name": "Fundamentals Of Electric Vehicles",
+      "codes": [
+        "ATE214"
+      ]
+    },
+    {
+      "name": "Fundamentals of Entomology",
+      "codes": [
+        "ENT123"
+      ]
+    },
+    {
+      "name": "fundamentals of information technology",
+      "codes": [
+        "ECAP170"
+      ]
+    },
+    {
+      "name": "Fundamentals of microprocessor and microcontroller310"
+    },
+    {
+      "name": "fundamentals of mmachine learning",
+      "codes": [
+        "INT 245"
+      ]
+    },
+    {
+      "name": "Fundamentals of Rural Sociology",
+      "codes": [
+        "AEE112"
+      ]
+    },
+    {
+      "name": "Fundamentals of Zoology",
+      "codes": [
+        "ZOL102"
+      ]
+    },
+    {
+      "name": "game designint 209"
+    },
+    {
+      "name": "Gaming"
+    },
+    {
+      "name": "Gender psychology",
+      "codes": [
+        "PSY610"
+      ]
+    },
+    {
+      "name": "Generative AICse 408"
+    },
+    {
+      "name": "Geography",
+      "codes": [
+        "GEO211"
+      ]
+    },
+    {
+      "name": "Global Diplomacy",
+      "codes": [
+        "POL372"
+      ]
+    },
+    {
+      "name": "google cloud fundamentalscsg 201"
+    },
+    {
+      "name": "Graphical Abstract on TrademarksCopyright and Trademark"
+    },
+    {
+      "name": "Ground Handling",
+      "codes": [
+        "HMT 138"
+      ]
+    },
+    {
+      "name": "Hackathon Ethics",
+      "codes": [
+        "HEE211"
+      ]
+    },
+    {
+      "name": "Heat Transfer",
+      "codes": [
+        "MEC301"
+      ]
+    },
+    {
+      "name": "Hindu Books",
+      "codes": [
+        "HINDU001"
+      ]
+    },
+    {
+      "name": "History of the world 1",
+      "codes": [
+        "DHIS-301"
+      ]
+    },
+    {
+      "name": "HTML and",
+      "codes": [
+        "CSSCAP329",
+        "CSSCSE-326"
+      ]
+    },
+    {
+      "name": "Human Anatomy & Physiology",
+      "codes": [
+        "BP101T"
+      ]
+    },
+    {
+      "name": "Human Health and Nutrition",
+      "codes": [
+        "BTY850"
+      ]
+    },
+    {
+      "name": "Human Resource Management",
+      "codes": [
+        "HRM101",
+        "HRM501",
+        "HRM 203"
+      ]
+    },
+    {
+      "name": "Human values and ethics",
+      "codes": [
+        "SOC 108"
+      ]
+    },
+    {
+      "name": "Humanitarian Education",
+      "codes": [
+        "HCRI50010"
+      ]
+    },
+    {
+      "name": "Hybrid mobile app development488"
+    },
+    {
+      "name": "IBM spssMgn909"
+    },
+    {
+      "name": "imperative competitive coding techniquescsf204"
+    },
+    {
+      "name": "indian culturefst802"
+    },
+    {
+      "name": "indian economy",
+      "codes": [
+        "ECO307"
+      ]
+    },
+    {
+      "name": "Indian freedom struggle",
+      "codes": [
+        "DHIS204"
+      ]
+    },
+    {
+      "name": "Indian freedom struggleIFS1"
+    },
+    {
+      "name": "Indian geography",
+      "codes": [
+        "SSC233"
+      ]
+    },
+    {
+      "name": "Indian Writings in Literature",
+      "codes": [
+        "IIDENG517"
+      ]
+    },
+    {
+      "name": "Individual dynamic and leadership",
+      "codes": [
+        "MGN572"
+      ]
+    },
+    {
+      "name": "Induction lpu"
+    },
+    {
+      "name": "Industrial engineering",
+      "codes": [
+        "HRM 301"
+      ]
+    },
+    {
+      "name": "Industrial EthicsCSe332"
+    },
+    {
+      "name": "Industrial internet of things",
+      "codes": [
+        "ECE237"
+      ]
+    },
+    {
+      "name": "Industry Ethics And Legal Issues",
+      "codes": [
+        "CSE-322",
+        "CSE332"
+      ]
+    },
+    {
+      "name": "Industry Ethics Ans Legal Issues",
+      "codes": [
+        "CSE332"
+      ]
+    },
+    {
+      "name": "Information control and audit",
+      "codes": [
+        "OPR310"
+      ]
+    },
+    {
+      "name": "Information security essentialscse407"
+    },
+    {
+      "name": "Intellectual property rights",
+      "codes": [
+        "BTY870"
+      ]
+    },
+    {
+      "name": "Inter programming",
+      "codes": [
+        "CSE 326"
+      ]
+    },
+    {
+      "name": "Interaction Design",
+      "codes": [
+        "IXD801"
+      ]
+    },
+    {
+      "name": "Internal combustion Engine",
+      "codes": [
+        "ATE-205"
+      ]
+    },
+    {
+      "name": "International business",
+      "codes": [
+        "MGNM578"
+      ]
+    },
+    {
+      "name": "International Business Environment",
+      "codes": [
+        "MGN578"
+      ]
+    },
+    {
+      "name": "international businessmgn 301"
+    },
+    {
+      "name": "International English Language Testing System"
+    },
+    {
+      "name": "International Financial Management",
+      "codes": [
+        "FIN 348"
+      ]
+    },
+    {
+      "name": "International Financial Managementfin 548"
+    },
+    {
+      "name": "International Law of Seas",
+      "codes": [
+        "LAW445"
+      ]
+    },
+    {
+      "name": "internet programmingcse 326"
+    },
+    {
+      "name": "Internet working essentialscse307"
+    },
+    {
+      "name": "Interpretation lawLLB"
+    },
+    {
+      "name": "Introduction to Artificial Intelligence",
+      "codes": [
+        "ECE241"
+      ]
+    },
+    {
+      "name": "Introduction to Artificial Intelligence and Machine Learning",
+      "codes": [
+        "CSM354"
+      ]
+    },
+    {
+      "name": "Introduction to BlockChain",
+      "codes": [
+        "CSC203"
+      ]
+    },
+    {
+      "name": "Introduction to Data Management",
+      "codes": [
+        "INT217"
+      ]
+    },
+    {
+      "name": "introduction to devopsint331"
+    },
+    {
+      "name": "Introduction to english Prose",
+      "codes": [
+        "ENG157"
+      ]
+    },
+    {
+      "name": "Introduction to financial markets",
+      "codes": [
+        "FIN-214"
+      ]
+    },
+    {
+      "name": "Introduction To Intellectual Property Rights",
+      "codes": [
+        "LAW 800"
+      ]
+    },
+    {
+      "name": "Introduction To International Relations",
+      "codes": [
+        "POL222"
+      ]
+    },
+    {
+      "name": "Introduction to IoT networking protocolsece128"
+    },
+    {
+      "name": "Introduction to multimedia",
+      "codes": [
+        "AFT155"
+      ]
+    },
+    {
+      "name": "introduction to plays",
+      "codes": [
+        "ENG134"
+      ]
+    },
+    {
+      "name": "Introduction to the Study of Language",
+      "codes": [
+        "DENG514"
+      ]
+    },
+    {
+      "name": "InTRODUCTION TO TRAVEL AND TOURISM",
+      "codes": [
+        "INDUSTRYHMT141"
+      ]
+    },
+    {
+      "name": "INTRODUCTION TO WEB labcse57d"
+    },
+    {
+      "name": "INTRODUCTION TO WEbcse56d"
+    },
+    {
+      "name": "Intrpretation of StatutesLLB"
+    },
+    {
+      "name": "Issues and Applications of Psychology-i",
+      "codes": [
+        "PSY283"
+      ]
+    },
+    {
+      "name": "IT Fundamentals",
+      "codes": [
+        "CSC102"
+      ]
+    },
+    {
+      "name": "Itinerary Planning and Managementhmt752"
+    },
+    {
+      "name": "Japanese basics",
+      "codes": [
+        "JAP101"
+      ]
+    },
+    {
+      "name": "Javascriptcse201"
+    },
+    {
+      "name": "Jose P laurel",
+      "codes": [
+        "JPL101"
+      ]
+    },
+    {
+      "name": "jurisprudence"
+    },
+    {
+      "name": "Law of Contract"
+    },
+    {
+      "name": "law of torts108"
+    },
+    {
+      "name": "legal aspects of business",
+      "codes": [
+        "BSL201"
+      ]
+    },
+    {
+      "name": "Legal Aspects of Business and Ethics -",
+      "codes": [
+        "IIMGNM579"
+      ]
+    },
+    {
+      "name": "Library Sciences",
+      "codes": [
+        "CSSD 112"
+      ]
+    },
+    {
+      "name": "Linera Algebra",
+      "codes": [
+        "DMTH502"
+      ]
+    },
+    {
+      "name": "Linux and Shell Scripting",
+      "codes": [
+        "CAP448"
+      ]
+    },
+    {
+      "name": "linuxcap 454"
+    },
+    {
+      "name": "Literary Criticism and Theory",
+      "codes": [
+        "DENG515"
+      ]
+    },
+    {
+      "name": "Literary Theory and Criticism",
+      "codes": [
+        "ENG 328"
+      ]
+    },
+    {
+      "name": "LPU Academic Calendar for Full-Time Programs: Autumn Term 2025Cost and Management Accounting"
+    },
+    {
+      "name": "lpunest letnothing2022"
+    },
+    {
+      "name": "Machine Design 1",
+      "codes": [
+        "MEC223"
+      ]
+    },
+    {
+      "name": "Machine Learning",
+      "codes": [
+        "IIINT423",
+        "CSM 423",
+        "INT 246"
+      ]
+    },
+    {
+      "name": "machine learning 1",
+      "codes": [
+        "INT 354"
+      ]
+    },
+    {
+      "name": "Machine tools and machining",
+      "codes": [
+        "MEC331"
+      ]
+    },
+    {
+      "name": "Macroeconomics",
+      "codes": [
+        "ECO526"
+      ]
+    },
+    {
+      "name": "Malware Analysis",
+      "codes": [
+        "INT 251"
+      ]
+    },
+    {
+      "name": "Management Information System"
+    },
+    {
+      "name": "Managerial Economics",
+      "codes": [
+        "EECO515"
+      ]
+    },
+    {
+      "name": "Managerial economics 2Ecom518"
+    },
+    {
+      "name": "Managing cloud solutions",
+      "codes": [
+        "INT330"
+      ]
+    },
+    {
+      "name": "Market Management"
+    },
+    {
+      "name": "Marketing Management",
+      "codes": [
+        "MKT501"
+      ]
+    },
+    {
+      "name": "Masters In Computer ApplicationsMCA1"
+    },
+    {
+      "name": "Mathematics",
+      "codes": [
+        "MTH 165",
+        "MTH 402",
+        "MTH-106"
+      ]
+    },
+    {
+      "name": "Mathematics behind",
+      "codes": [
+        "MLINT255"
+      ]
+    },
+    {
+      "name": "Mathematics class 10041"
+    },
+    {
+      "name": "MBADmgt516"
+    },
+    {
+      "name": "MCQ on Malware Forensics - UNI 6Malware Analysis"
+    },
+    {
+      "name": "medical labmlt1924"
+    },
+    {
+      "name": "Medicinal Chemistry",
+      "codes": [
+        "CHE373"
+      ]
+    },
+    {
+      "name": "Medieval history",
+      "codes": [
+        "HIST10031"
+      ]
+    },
+    {
+      "name": "Microprocessor Laboratory",
+      "codes": [
+        "ECE48D"
+      ]
+    },
+    {
+      "name": "Microservicesint 334"
+    },
+    {
+      "name": "Money, Banking and Financial Services",
+      "codes": [
+        "FIN318"
+      ]
+    },
+    {
+      "name": "Mongolian language",
+      "codes": [
+        "MLS222"
+      ]
+    },
+    {
+      "name": "MTH165 End Term Sample Paper - Mathematics for EngineersMathematics"
+    },
+    {
+      "name": "MTH302 Midterm Exam Study Notes - Probability and Statisticsprobability and statistics"
+    },
+    {
+      "name": "Multimedia",
+      "codes": [
+        "CSE324"
+      ]
+    },
+    {
+      "name": "mvc programming",
+      "codes": [
+        "INT 221"
+      ]
+    },
+    {
+      "name": "Natural language processing",
+      "codes": [
+        "INT344"
+      ]
+    },
+    {
+      "name": "Network Analysis and Synthesis",
+      "codes": [
+        "ELE205"
+      ]
+    },
+    {
+      "name": "Network Security and Cryptography",
+      "codes": [
+        "CSE 403"
+      ]
+    },
+    {
+      "name": "Networks",
+      "codes": [
+        "CSE306"
+      ]
+    },
+    {
+      "name": "non linear data structures and algorithmic paradigmscsf205"
+    },
+    {
+      "name": "North Indian Cookery"
+    },
+    {
+      "name": "Object oriented programing",
+      "codes": [
+        "CSE 202"
+      ]
+    },
+    {
+      "name": "Object Oriented Programming",
+      "codes": [
+        "CSF102"
+      ]
+    },
+    {
+      "name": "Object oriented programming using C++",
+      "codes": [
+        "CAP 455"
+      ]
+    },
+    {
+      "name": "object oriented programmingint105"
+    },
+    {
+      "name": "online academic course",
+      "codes": [
+        "CSE393"
+      ]
+    },
+    {
+      "name": "open minors"
+    },
+    {
+      "name": "Open Source",
+      "codes": [
+        "INT301"
+      ]
+    },
+    {
+      "name": "Open Source Technologies",
+      "codes": [
+        "INT-301"
+      ]
+    },
+    {
+      "name": "Operating system",
+      "codes": [
+        "CSE 316"
+      ]
+    },
+    {
+      "name": "Operating System Labaratory",
+      "codes": [
+        "CSE 325"
+      ]
+    },
+    {
+      "name": "operating system laboratory",
+      "codes": [
+        "CSE325"
+      ]
+    },
+    {
+      "name": "Operating Systems",
+      "codes": [
+        "CAP213"
+      ]
+    },
+    {
+      "name": "operation management",
+      "codes": [
+        "DMGT501"
+      ]
+    },
+    {
+      "name": "organizational behaviour",
+      "codes": [
+        "DMGT581"
+      ]
+    },
+    {
+      "name": "Orientation to computing",
+      "codes": [
+        "CSE111",
+        "CSE 121"
+      ]
+    },
+    {
+      "name": "Overall syllabus"
+    },
+    {
+      "name": "Parasitology and Immunology"
+    },
+    {
+      "name": "Particle and fluid particle",
+      "codes": [
+        "CHM202"
+      ]
+    },
+    {
+      "name": "pavement materialsciv434"
+    },
+    {
+      "name": "PEA 308 (End Term Exam) Comprehensive Problem Set & SolutionsAnalytical skills - II"
+    },
+    {
+      "name": "Penetration Testing",
+      "codes": [
+        "INT245"
+      ]
+    },
+    {
+      "name": "Performance management",
+      "codes": [
+        "HRMM515"
+      ]
+    },
+    {
+      "name": "Personal Finance",
+      "codes": [
+        "FIN352"
+      ]
+    },
+    {
+      "name": "Pest Detection System Using Faster RCNN and SVM TechniquesDBMS"
+    },
+    {
+      "name": "PEV107 Answer Key: Unit 1 (July-November 2019)Software Engineering"
+    },
+    {
+      "name": "Pev112 Unit 1 & 2 Grammar & Vocabulary Answers and ExercisesVerbal ability"
+    },
+    {
+      "name": "Pharmaceutical Engineering",
+      "codes": [
+        "BP304T"
+      ]
+    },
+    {
+      "name": "Pharmaceutical MarketingBP803ET"
+    },
+    {
+      "name": "Pharmaceutical microbiology",
+      "codes": [
+        "BTY591"
+      ]
+    },
+    {
+      "name": "Pharmacology-",
+      "codes": [
+        "IBP404T",
+        "IIBP503T"
+      ]
+    },
+    {
+      "name": "Pharmacy practice",
+      "codes": [
+        "MPP201T"
+      ]
+    },
+    {
+      "name": "Photo Journalism"
+    },
+    {
+      "name": "Photoshop",
+      "codes": [
+        "CAP806"
+      ]
+    },
+    {
+      "name": "PHP Server side scripting",
+      "codes": [
+        "INT 220"
+      ]
+    },
+    {
+      "name": "Phsycology of happiness",
+      "codes": [
+        "PSY802"
+      ]
+    },
+    {
+      "name": "physical education"
+    },
+    {
+      "name": "Planning and Design Lab 7 Regional Planning",
+      "codes": [
+        "URP425"
+      ]
+    },
+    {
+      "name": "Political Science",
+      "codes": [
+        "DPOL102",
+        "DPOL202"
+      ]
+    },
+    {
+      "name": "Political Theory",
+      "codes": [
+        "DPOL101"
+      ]
+    },
+    {
+      "name": "positive psychology",
+      "codes": [
+        "PSY292"
+      ]
+    },
+    {
+      "name": "power bi lpucse324"
+    },
+    {
+      "name": "Power Electronics",
+      "codes": [
+        "ELE310"
+      ]
+    },
+    {
+      "name": "Practical physicsPhy119"
+    },
+    {
+      "name": "Predicitve analysis",
+      "codes": [
+        "INT234"
+      ]
+    },
+    {
+      "name": "Predictive Analysis",
+      "codes": [
+        "INT 234"
+      ]
+    },
+    {
+      "name": "Predictive analytics",
+      "codes": [
+        "CAP485"
+      ]
+    },
+    {
+      "name": "Primary Manufacturing Labmec330 2021"
+    },
+    {
+      "name": "Principles of Plant Pathology"
+    },
+    {
+      "name": "probability and statistics",
+      "codes": [
+        "MTH302"
+      ]
+    },
+    {
+      "name": "Probability and stochastic processes",
+      "codes": [
+        "ECE180"
+      ]
+    },
+    {
+      "name": "Product & Brand Management",
+      "codes": [
+        "DMGT-508"
+      ]
+    },
+    {
+      "name": "Product management foundation672"
+    },
+    {
+      "name": "Professional Banana PeelingDILDO1"
+    },
+    {
+      "name": "Professional Communication",
+      "codes": [
+        "PEL300"
+      ]
+    },
+    {
+      "name": "programme orientationmec100"
+    },
+    {
+      "name": "Programming in java",
+      "codes": [
+        "CSE 310",
+        "CSM229"
+      ]
+    },
+    {
+      "name": "programming in python",
+      "codes": [
+        "CAD102"
+      ]
+    },
+    {
+      "name": "Programming Mathodology",
+      "codes": [
+        "CAP-172"
+      ]
+    },
+    {
+      "name": "project managementcseb422"
+    },
+    {
+      "name": "Propulsion",
+      "codes": [
+        "IASE202"
+      ]
+    },
+    {
+      "name": "PSY293: Psychology of High Performance Course OverviewPsychology"
+    },
+    {
+      "name": "Psychology Testing",
+      "codes": [
+        "PSY291"
+      ]
+    },
+    {
+      "name": "Psychologypsy114"
+    },
+    {
+      "name": "Psycholoical computingCse1234"
+    },
+    {
+      "name": "Psychometrics",
+      "codes": [
+        "PLMS340"
+      ]
+    },
+    {
+      "name": "Public Administration",
+      "codes": [
+        "PBA 397"
+      ]
+    },
+    {
+      "name": "public policy and analysispba 399"
+    },
+    {
+      "name": "Publication Ethics and Scientific Writing"
+    },
+    {
+      "name": "Punjabi Elective-4",
+      "codes": [
+        "DPBI202"
+      ]
+    },
+    {
+      "name": "Python and Image Processing",
+      "codes": [
+        "ECE 165"
+      ]
+    },
+    {
+      "name": "Python for",
+      "codes": [
+        "MLINT-215"
+      ]
+    },
+    {
+      "name": "Python Programming",
+      "codes": [
+        "CSE343",
+        "INT213",
+        "INT 108"
+      ]
+    },
+    {
+      "name": "Python Tools",
+      "codes": [
+        "INT375"
+      ]
+    },
+    {
+      "name": "Quality Assurance",
+      "codes": [
+        "BP606T"
+      ]
+    },
+    {
+      "name": "Quantitative Reasoning",
+      "codes": [
+        "IPEA110"
+      ]
+    },
+    {
+      "name": "Random Vaariables and Information Theoru",
+      "codes": [
+        "ECE177"
+      ]
+    },
+    {
+      "name": "Real Analysis",
+      "codes": [
+        "DMTH401"
+      ]
+    },
+    {
+      "name": "Real Time Systems",
+      "codes": [
+        "DCAP608"
+      ]
+    },
+    {
+      "name": "Remote sensing",
+      "codes": [
+        "GEO802"
+      ]
+    },
+    {
+      "name": "Research Fundamentals",
+      "codes": [
+        "GEN 530"
+      ]
+    },
+    {
+      "name": "Research Methodology",
+      "codes": [
+        "GEN741"
+      ]
+    },
+    {
+      "name": "Research methodologyMgn 206"
+    },
+    {
+      "name": "Retail Marketing",
+      "codes": [
+        "MGN 305",
+        "MKT 305"
+      ]
+    },
+    {
+      "name": "Robotic Process Automation",
+      "codes": [
+        "INT 347"
+      ]
+    },
+    {
+      "name": "Rockets and Missiles",
+      "codes": [
+        "ASE416"
+      ]
+    },
+    {
+      "name": "Rural development",
+      "codes": [
+        "KHU 801"
+      ]
+    },
+    {
+      "name": "Sampling Distribution",
+      "codes": [
+        "MTH326"
+      ]
+    },
+    {
+      "name": "Scientific principles of crop production",
+      "codes": [
+        "AGR503"
+      ]
+    },
+    {
+      "name": "Search Engine Optimization",
+      "codes": [
+        "MKT905"
+      ]
+    },
+    {
+      "name": "Securing COMPUTER SYSTEMSInt250"
+    },
+    {
+      "name": "Securing Computing Systems",
+      "codes": [
+        "INT244"
+      ]
+    },
+    {
+      "name": "security analysis and portfolio managementfin547"
+    },
+    {
+      "name": "Security essentialsInt407"
+    },
+    {
+      "name": "service marketingmkt515"
+    },
+    {
+      "name": "Signal And System",
+      "codes": [
+        "EEE-201"
+      ]
+    },
+    {
+      "name": "Social Awareness Study",
+      "codes": [
+        "SAS131"
+      ]
+    },
+    {
+      "name": "Social entrepreneurship",
+      "codes": [
+        "MGN819"
+      ]
+    },
+    {
+      "name": "social mediamkt502"
+    },
+    {
+      "name": "Sociology"
+    },
+    {
+      "name": "Soft Computing",
+      "codes": [
+        "INT256"
+      ]
+    },
+    {
+      "name": "Soft Computing Techniques",
+      "codes": [
+        "INT246"
+      ]
+    },
+    {
+      "name": "Soft Skills",
+      "codes": [
+        "PES318",
+        "PES319",
+        "PEV301"
+      ]
+    },
+    {
+      "name": "Software engineer",
+      "codes": [
+        "CAP598"
+      ]
+    },
+    {
+      "name": "Software Engineering",
+      "codes": [
+        "CSE 320",
+        "CSE320"
+      ]
+    },
+    {
+      "name": "software engineeringcse-320"
+    },
+    {
+      "name": "Software EngineeringDcap 205"
+    },
+    {
+      "name": "Software enginneringcse374"
+    },
+    {
+      "name": "Software Project Management",
+      "codes": [
+        "CSE411"
+      ]
+    },
+    {
+      "name": "software project managementint411"
+    },
+    {
+      "name": "Software Testing",
+      "codes": [
+        "CSE379"
+      ]
+    },
+    {
+      "name": "Solid Waste Management",
+      "codes": [
+        "MGN 231"
+      ]
+    },
+    {
+      "name": "Sports Psychology",
+      "codes": [
+        "PSY230"
+      ]
+    },
+    {
+      "name": "sql and visulizationint 350"
+    },
+    {
+      "name": "SRS for Online Book Store (K1512) - Software Requirements DocumentSoftware Engineering"
+    },
+    {
+      "name": "statistical techniques5i2"
+    },
+    {
+      "name": "Storage Technology Foundation",
+      "codes": [
+        "CSE-504"
+      ]
+    },
+    {
+      "name": "Strength of material"
+    },
+    {
+      "name": "Summer internship",
+      "codes": [
+        "MGN350"
+      ]
+    },
+    {
+      "name": "Summer Training",
+      "codes": [
+        "CSE443"
+      ]
+    },
+    {
+      "name": "Summer Training: Data Structures with Java (CSE 12315073)B.tech CSE"
+    },
+    {
+      "name": "sustainable cities - principles and practices",
+      "codes": [
+        "ARC710"
+      ]
+    },
+    {
+      "name": "Swiggy Clone Application Software Requirement Specification (SRS)Software Engineering"
+    },
+    {
+      "name": "Synthetic and system biologybty177"
+    },
+    {
+      "name": "System Administration",
+      "codes": [
+        "INT249"
+      ]
+    },
+    {
+      "name": "System administrator",
+      "codes": [
+        "INT 250"
+      ]
+    },
+    {
+      "name": "The Cost Of Overusing EarthHTML and CSS"
+    },
+    {
+      "name": "Theory of Machines",
+      "codes": [
+        "MEC219"
+      ]
+    },
+    {
+      "name": "Thermal Engineering",
+      "codes": [
+        "MEC216"
+      ]
+    },
+    {
+      "name": "Total Quality Management",
+      "codes": [
+        "OPRM509"
+      ]
+    },
+    {
+      "name": "Tourism and Vacation management",
+      "codes": [
+        "HMT803"
+      ]
+    },
+    {
+      "name": "traffic engineering and modellingciv542"
+    },
+    {
+      "name": "ui/uxixd801"
+    },
+    {
+      "name": "UNIT 1 - Lecture Notes Summary for Chapters 1 to 4Mathematics"
+    },
+    {
+      "name": "Unit 1: Intro to Generative AI - Concepts & ApplicationsGenerative AI"
+    },
+    {
+      "name": "Unit 2: Stakeholder Management & Communication Analysis Noteslpunest let"
+    },
+    {
+      "name": "Unit 5 Malware Analysis Techniques and ToolsMalware Analysis"
+    },
+    {
+      "name": "Unit-3 Web Design: Comprehensive Guide to PHP & MySQL IntegrationBca (big Data Analytics)"
+    },
+    {
+      "name": "Unite operations 1",
+      "codes": [
+        "FOT 219"
+      ]
+    },
+    {
+      "name": "Unity course for MOOCCap 735"
+    },
+    {
+      "name": "Urban Planning"
+    },
+    {
+      "name": "user manualcse 101"
+    },
+    {
+      "name": "vedic mathematicsmth880"
+    },
+    {
+      "name": "Vedic mathMth 807"
+    },
+    {
+      "name": "Verbal Ability",
+      "codes": [
+        "PEV 106",
+        "PEV112"
+      ]
+    },
+    {
+      "name": "Verbal ability 2",
+      "codes": [
+        "PEV107"
+      ]
+    },
+    {
+      "name": "Verbal Ability Advanced -",
+      "codes": [
+        "IIPEV 110"
+      ]
+    },
+    {
+      "name": "Verbal abilityPev113"
+    },
+    {
+      "name": "VI PROJECT MANAGEMENT AGILE PRACTICES ADOPTION (50 MCQs with Answers)project management"
+    },
+    {
+      "name": "Virtualization and Cloud Computing Laboratorycse 427"
+    },
+    {
+      "name": "VLSI design",
+      "codes": [
+        "ECE419"
+      ]
+    },
+    {
+      "name": "Vulnerability Assessment for Data Visualization: Pros & Cons Analysisdata Visualization (TABLUE)"
+    },
+    {
+      "name": "Waste Management",
+      "codes": [
+        "BTY878"
+      ]
+    },
+    {
+      "name": "Web and Social media analytics",
+      "codes": [
+        "MKT307"
+      ]
+    },
+    {
+      "name": "web app development with react jsint 252"
+    },
+    {
+      "name": "Web Development in Python Using DjangoInt253"
+    },
+    {
+      "name": "World History",
+      "codes": [
+        "HIS801"
+      ]
+    },
+    {
+      "name": "XAT syllabus"
+    },
+    {
+      "name": "Yoga and wellness",
+      "codes": [
+        "APH881"
+      ]
+    },
+    {
+      "name": "yogacdp"
+    }
+  ]
+}

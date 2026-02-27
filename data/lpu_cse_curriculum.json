@@ -1,0 +1,22 @@
+{
+  "university": "Lovely Professional University",
+  "course": "B.Tech. Computer Science and Engineering (CSE)",
+  "years": [
+    {
+      "year": 1,
+      "terms": []
+    },
+    {
+      "year": 2,
+      "terms": []
+    },
+    {
+      "year": 3,
+      "terms": []
+    },
+    {
+      "year": 4,
+      "terms": []
+    }
+  ]
+}

@@ -1,0 +1,1827 @@
+{
+  "verifiedAt": "2025-12-04T12:33:34.129Z",
+  "totalSearched": 193,
+  "codesFound": 187,
+  "notFound": 6,
+  "subjects": [
+    {
+      "originalName": "Advance Web DevelopmentInt222",
+      "cleanedName": "Advance Web DevelopmentInt222",
+      "code": "INT222",
+      "allCodesFound": [
+        "INT222",
+        "FIND43",
+        "AUTH20"
+      ]
+    },
+    {
+      "originalName": "Advance communicationPel135",
+      "cleanedName": "Advance communicationPel135",
+      "code": "PEL135",
+      "allCodesFound": [
+        "PEL135",
+        "FIND28",
+        "PEL119"
+      ]
+    },
+    {
+      "originalName": "Advanced AuditAAA",
+      "cleanedName": "Advanced Audit",
+      "code": "FIND18",
+      "allCodesFound": [
+        "FIND18",
+        "ACCT622",
+        "MAY22"
+      ]
+    },
+    {
+      "originalName": "AerodynamicsAse210",
+      "cleanedName": "AerodynamicsAse210",
+      "code": "ASE210",
+      "allCodesFound": [
+        "ASE210",
+        "FIND23",
+        "AVIA210"
+      ]
+    },
+    {
+      "originalName": "Agriculture",
+      "cleanedName": "Agriculture",
+      "code": "FOR2026",
+      "allCodesFound": [
+        "FOR2026",
+        "FOR2024",
+        "FEES2026"
+      ]
+    },
+    {
+      "originalName": "AnatomíaAnatomía",
+      "cleanedName": "AnatomíaAnatomía",
+      "code": "MAR26",
+      "allCodesFound": [
+        "MAR26",
+        "FEB22",
+        "OCT29"
+      ]
+    },
+    {
+      "originalName": "Aptitude",
+      "cleanedName": "Aptitude",
+      "code": "DAY2025",
+      "allCodesFound": [
+        "DAY2025",
+        "FIND17",
+        "TO135"
+      ]
+    },
+    {
+      "originalName": "Artificial intelligenceCse428",
+      "cleanedName": "Artificial intelligenceCse428",
+      "code": "INT428",
+      "allCodesFound": [
+        "INT428",
+        "FIND26",
+        "JAN14"
+      ]
+    },
+    {
+      "originalName": "Artificial intelligenceInt404",
+      "cleanedName": "Artificial intelligenceInt404",
+      "code": "INT404",
+      "allCodesFound": [
+        "INT404",
+        "FIND72",
+        "CSE404"
+      ]
+    },
+    {
+      "originalName": "Astrophysics",
+      "cleanedName": "Astrophysics",
+      "code": "IN2025",
+      "allCodesFound": [
+        "IN2025",
+        "MAR19",
+        "OCT17"
+      ]
+    },
+    {
+      "originalName": "B.Sc Information TechnologyB.Sc IT",
+      "cleanedName": "B.Sc Information TechnologyB.Sc IT",
+      "code": "FOR2026",
+      "allCodesFound": [
+        "FOR2026",
+        "FEES2026",
+        "LPU2025"
+      ]
+    },
+    {
+      "originalName": "B.com (Hons.)BCH1",
+      "cleanedName": "B.com (Hons.)BCH1",
+      "code": "FIND58",
+      "allCodesFound": [
+        "FIND58",
+        "FEES2026",
+        "SEP17"
+      ]
+    },
+    {
+      "originalName": "B.tech CSE",
+      "cleanedName": "B.tech CSE",
+      "code": "FOR2026",
+      "allCodesFound": [
+        "FOR2026",
+        "FEES2026",
+        "NOV10"
+      ]
+    },
+    {
+      "originalName": "BMLT Internship Report: Practical Experience at Midnapore City Collegemedical lab",
+      "cleanedName": "BMLT Internship Report: Practical Experience at Midnapore City Collegemedical lab",
+      "code": "FEES2025",
+      "allCodesFound": [
+        "FEES2025",
+        "MAY19",
+        "FOR2026"
+      ]
+    },
+    {
+      "originalName": "BTECH Computer science and engineeringP132",
+      "cleanedName": "BTECH Computer science and engineeringP132",
+      "code": "FOR2026",
+      "allCodesFound": [
+        "FOR2026",
+        "FEES2026",
+        "SEP19"
+      ]
+    },
+    {
+      "originalName": "Bachelor of  Arts4120-S",
+      "cleanedName": "Bachelor of  Arts4120-S",
+      "code": "FOR2026",
+      "allCodesFound": [
+        "FOR2026",
+        "ARTS4120",
+        "FIND18"
+      ]
+    },
+    {
+      "originalName": "Bca (big Data Analytics)",
+      "cleanedName": "Bca (big Data Analytics)",
+      "code": "FIND73",
+      "allCodesFound": [
+        "FIND73",
+        "SEP15",
+        "FEES2026"
+      ]
+    },
+    {
+      "originalName": "Bioinformatics",
+      "cleanedName": "Bioinformatics",
+      "code": "FEES2025",
+      "allCodesFound": [
+        "FEES2025",
+        "OF500",
+        "OF797"
+      ]
+    },
+    {
+      "originalName": "Biomolecules and Metabolism",
+      "cleanedName": "Biomolecules and Metabolism",
+      "code": "CHEM212",
+      "allCodesFound": [
+        "CHEM212",
+        "BIS101",
+        "BIS104"
+      ]
+    },
+    {
+      "originalName": "Biotechnology",
+      "cleanedName": "Biotechnology",
+      "code": "FOR2026",
+      "allCodesFound": [
+        "FOR2026",
+        "IN2025",
+        "FEES2026"
+      ]
+    },
+    {
+      "originalName": "Business and Sustainbilitymgnm831",
+      "cleanedName": "Business and Sustainbilitymgnm831",
+      "code": "MGNM831",
+      "allCodesFound": [
+        "MGNM831",
+        "MGN101",
+        "FIND19"
+      ]
+    },
+    {
+      "originalName": "CAT interview Questions",
+      "cleanedName": "CAT interview Questions",
+      "code": "SEP15",
+      "allCodesFound": [
+        "SEP15",
+        "AND113",
+        "NOV19"
+      ]
+    },
+    {
+      "originalName": "CDP instruction",
+      "cleanedName": "CDP instruction",
+      "code": "FIND38",
+      "allCodesFound": [
+        "FIND38",
+        "GEN231",
+        "FIND91"
+      ]
+    },
+    {
+      "originalName": "CDP on yoga",
+      "cleanedName": "CDP on yoga",
+      "code": "FIND30",
+      "allCodesFound": [
+        "FIND30",
+        "GEN231",
+        "YOGA100"
+      ]
+    },
+    {
+      "originalName": "Clinical Mirobiology",
+      "cleanedName": "Clinical Mirobiology",
+      "code": "FEES2025",
+      "allCodesFound": [
+        "FEES2025",
+        "LPU2025",
+        "OCT31"
+      ]
+    },
+    {
+      "originalName": "Cloud EssentialsINt362",
+      "cleanedName": "Cloud EssentialsINt362",
+      "code": "INT362",
+      "allCodesFound": [
+        "INT362",
+        "FIND13",
+        "JUL22"
+      ]
+    },
+    {
+      "originalName": "Clouds computingCse427",
+      "cleanedName": "Clouds computingCse427",
+      "code": "CSE427",
+      "allCodesFound": [
+        "CSE427",
+        "FIND51",
+        "GOPI76"
+      ]
+    },
+    {
+      "originalName": "Codetantra",
+      "cleanedName": "Codetantra",
+      "code": "INT108",
+      "allCodesFound": [
+        "INT108",
+        "FIND23"
+      ]
+    },
+    {
+      "originalName": "Community Physiotherapy",
+      "cleanedName": "Community Physiotherapy",
+      "code": "FOR2026",
+      "allCodesFound": [
+        "FOR2026",
+        "FEES2026",
+        "NOV19"
+      ]
+    },
+    {
+      "originalName": "Company law2091",
+      "cleanedName": "Company law2091",
+      "code": "LAW2091",
+      "allCodesFound": [
+        "LAW2091",
+        "FIND39",
+        "DCOM106"
+      ]
+    },
+    {
+      "originalName": "Computer ApplicationD2001",
+      "cleanedName": "Computer ApplicationD2001",
+      "code": "FIND11",
+      "allCodesFound": [
+        "FIND11",
+        "ISC2024"
+      ]
+    },
+    {
+      "originalName": "Computer Organization and Design",
+      "cleanedName": "Computer Organization and Design",
+      "code": "CSE211",
+      "allCodesFound": [
+        "CSE211",
+        "FIND114",
+        "FIND36"
+      ]
+    },
+    {
+      "originalName": "Constitutional Law",
+      "cleanedName": "Constitutional Law",
+      "code": "LPU2951",
+      "allCodesFound": [
+        "LPU2951",
+        "FIND47",
+        "MAY2020"
+      ]
+    },
+    {
+      "originalName": "Corporate law",
+      "cleanedName": "Corporate law",
+      "code": "LAW2091",
+      "allCodesFound": [
+        "LAW2091",
+        "FIND39",
+        "LLB4947"
+      ]
+    },
+    {
+      "originalName": "DBMS & SQL Lecture Notes: Key Concepts and DefinitionsDatabase management systems",
+      "cleanedName": "DBMS & SQL Lecture Notes: Key Concepts and DefinitionsDatabase management systems",
+      "code": "CS101",
+      "allCodesFound": [
+        "CS101"
+      ]
+    },
+    {
+      "originalName": "DC Circuits - Unit 1 Overview and Key ConceptsElectronics and Communication",
+      "cleanedName": "DC Circuits - Unit 1 Overview and Key ConceptsElectronics and Communication",
+      "code": "ECE249",
+      "allCodesFound": [
+        "ECE249"
+      ]
+    },
+    {
+      "originalName": "Data Minningcse 345",
+      "cleanedName": "Data Minningcse 345",
+      "code": "CSE345",
+      "allCodesFound": [
+        "CSE345",
+        "FIND16",
+        "FOR2026"
+      ]
+    },
+    {
+      "originalName": "Data Structures and algocse256",
+      "cleanedName": "Data Structures and algocse256",
+      "code": "CSE256",
+      "allCodesFound": [
+        "CSE256",
+        "JUNE10",
+        "JULY17"
+      ]
+    },
+    {
+      "originalName": "Data StructuresCse-205",
+      "cleanedName": "Data StructuresCse-205",
+      "code": "CSE205",
+      "allCodesFound": [
+        "CSE205",
+        "FIND164"
+      ]
+    },
+    {
+      "originalName": "Data structure course",
+      "cleanedName": "Data structure course",
+      "code": "CSE205",
+      "allCodesFound": [
+        "CSE205",
+        "FIND164",
+        "CSE228"
+      ]
+    },
+    {
+      "originalName": "Database Management Systems",
+      "cleanedName": "Database Management Systems",
+      "code": "INT306",
+      "allCodesFound": [
+        "INT306",
+        "FIND30",
+        "DCAP402"
+      ]
+    },
+    {
+      "originalName": "Design and Thinkingint 335",
+      "cleanedName": "Design and Thinkingint 335",
+      "code": "INT335",
+      "allCodesFound": [
+        "INT335",
+        "MAR2023",
+        "SU2021"
+      ]
+    },
+    {
+      "originalName": "Design and analysis of algorithmcse408",
+      "cleanedName": "Design and analysis of algorithmcse408",
+      "code": "CSE408",
+      "allCodesFound": [
+        "CSE408",
+        "CAP538",
+        "FIND30"
+      ]
+    },
+    {
+      "originalName": "Devops Overview",
+      "cleanedName": "Devops Overview",
+      "code": "FIND21",
+      "allCodesFound": [
+        "FIND21",
+        "INT331",
+        "IN2025"
+      ]
+    },
+    {
+      "originalName": "Discrete maths136",
+      "cleanedName": "Discrete maths136",
+      "code": "FIND20",
+      "allCodesFound": [
+        "FIND20",
+        "MTH136",
+        "EMTH136"
+      ]
+    },
+    {
+      "originalName": "DiscreteMathematics401",
+      "cleanedName": "DiscreteMathematics401",
+      "code": "FIND88",
+      "allCodesFound": [
+        "FIND88",
+        "MTH401",
+        "MATH401"
+      ]
+    },
+    {
+      "originalName": "Doctorate of PhilosophyPhD123",
+      "cleanedName": "Doctorate of PhilosophyPhD123",
+      "code": "PHD123",
+      "allCodesFound": [
+        "PHD123",
+        "NOV12",
+        "FOR2026"
+      ]
+    },
+    {
+      "originalName": "ECE - 249 Comprehensive Study NotesElectronics and Communication",
+      "cleanedName": "ECE - 249 Comprehensive Study NotesElectronics and Communication",
+      "code": "ECE249",
+      "allCodesFound": [
+        "ECE249",
+        "FIND162",
+        "MAR12"
+      ]
+    },
+    {
+      "originalName": "Economics for engineersEco 301",
+      "cleanedName": "Economics for engineersEco 301",
+      "code": "ECO301",
+      "allCodesFound": [
+        "ECO301",
+        "HSMC301",
+        "HS301"
+      ]
+    },
+    {
+      "originalName": "Electrical and Electronics EngineeringP13A",
+      "cleanedName": "Electrical and Electronics EngineeringP13A",
+      "code": "ECE131",
+      "allCodesFound": [
+        "ECE131",
+        "WITH70",
+        "FOR2026"
+      ]
+    },
+    {
+      "originalName": "Electromagnetic TheoryPhy 109",
+      "cleanedName": "Electromagnetic TheoryPhy 109",
+      "code": "PHY109",
+      "allCodesFound": [
+        "PHY109",
+        "FIND85",
+        "PYQS2011"
+      ]
+    },
+    {
+      "originalName": "Engineering graphics and digital fabricationMec 136",
+      "cleanedName": "Engineering graphics and digital fabricationMec 136",
+      "code": "MEC136",
+      "allCodesFound": [
+        "MEC136",
+        "FIND44",
+        "SHOW54"
+      ]
+    },
+    {
+      "originalName": "Engineering physics",
+      "cleanedName": "Engineering physics",
+      "code": "PHY110",
+      "allCodesFound": [
+        "PHY110",
+        "FIND264",
+        "TERM2025"
+      ]
+    },
+    {
+      "originalName": "Engineering physics110",
+      "cleanedName": "Engineering physics110",
+      "code": "PHY110",
+      "allCodesFound": [
+        "PHY110",
+        "FIND264",
+        "TERM2025"
+      ]
+    },
+    {
+      "originalName": "English Core301",
+      "cleanedName": "English Core301",
+      "code": "CORE301",
+      "allCodesFound": [
+        "CORE301",
+        "FIND11",
+        "DENG301"
+      ]
+    },
+    {
+      "originalName": "EnglishPel 121",
+      "cleanedName": "EnglishPel 121",
+      "code": "PEL121",
+      "allCodesFound": [
+        "PEL121",
+        "FIND13",
+        "FIND43"
+      ]
+    },
+    {
+      "originalName": "Environmental law",
+      "cleanedName": "Environmental law",
+      "code": "LPU4085",
+      "allCodesFound": [
+        "LPU4085",
+        "FIND20",
+        "OF2023"
+      ]
+    },
+    {
+      "originalName": "Event Management System SRS (K23CH) - Version 1.0 DetailsSoftware Engineering",
+      "cleanedName": "Event Management System SRS (K23CH) - Version 1.0 DetailsSoftware Engineering",
+      "code": "CSE320",
+      "allCodesFound": [
+        "CSE320",
+        "SEP10"
+      ]
+    },
+    {
+      "originalName": "Event management",
+      "cleanedName": "Event management",
+      "code": "FIND13",
+      "allCodesFound": [
+        "FIND13"
+      ]
+    },
+    {
+      "originalName": "Financial ManagementP371",
+      "cleanedName": "Financial ManagementP371",
+      "code": "FIND77",
+      "allCodesFound": [
+        "FIND77",
+        "FIN212",
+        "DMGT207"
+      ]
+    },
+    {
+      "originalName": "Fluid mechanics labMec212",
+      "cleanedName": "Fluid mechanics labMec212",
+      "code": "MEC212",
+      "allCodesFound": [
+        "MEC212",
+        "UH2212",
+        "MEC207"
+      ]
+    },
+    {
+      "originalName": "Frontend Development with React - Course Completion CertificateFull Stack Web Development",
+      "cleanedName": "Frontend Development with React - Course Completion CertificateFull Stack Web Development",
+      "code": "WITH10",
+      "allCodesFound": [
+        "WITH10",
+        "JUL23",
+        "THE10"
+      ]
+    },
+    {
+      "originalName": "Fundamentals of microprocessor and microcontroller310",
+      "cleanedName": "Fundamentals of microprocessor and microcontroller310",
+      "code": "AND14",
+      "allCodesFound": [
+        "AND14",
+        "ECE310",
+        "NONE30"
+      ]
+    },
+    {
+      "originalName": "Gaming",
+      "cleanedName": "Gaming",
+      "code": "NCAA100",
+      "allCodesFound": [
+        "NCAA100",
+        "APR16"
+      ]
+    },
+    {
+      "originalName": "Generative AICse 408",
+      "cleanedName": "Generative AICse 408",
+      "code": "CSE408",
+      "allCodesFound": [
+        "CSE408",
+        "FIND42",
+        "FOR2026"
+      ]
+    },
+    {
+      "originalName": "Graphical Abstract on TrademarksCopyright and Trademark",
+      "cleanedName": "Graphical Abstract on TrademarksCopyright and Trademark",
+      "code": "NOV11",
+      "allCodesFound": [
+        "NOV11",
+        "AUG29",
+        "AUG16"
+      ]
+    },
+    {
+      "originalName": "Hybrid mobile app development488",
+      "cleanedName": "Hybrid mobile app development488",
+      "code": "NOV26",
+      "allCodesFound": [
+        "NOV26",
+        "FEB28",
+        "JUL31"
+      ]
+    },
+    {
+      "originalName": "IBM spssMgn909",
+      "cleanedName": "IBM spssMgn909",
+      "code": "MGN909",
+      "allCodesFound": [
+        "MGN909",
+        "AUG26"
+      ]
+    },
+    {
+      "originalName": "INTRODUCTION TO WEbcse56d",
+      "cleanedName": "INTRODUCTION TO WEbcse56d",
+      "code": "CSE326",
+      "allCodesFound": [
+        "CSE326",
+        "LEC00"
+      ]
+    },
+    {
+      "originalName": "Indian freedom struggleIFS1",
+      "cleanedName": "Indian freedom struggle",
+      "code": "DHIS204",
+      "allCodesFound": [
+        "DHIS204",
+        "OF230",
+        "AND700"
+      ]
+    },
+    {
+      "originalName": "Induction lpu",
+      "cleanedName": "Induction lpu",
+      "code": "AUG2025",
+      "allCodesFound": [
+        "AUG2025",
+        "JUN18",
+        "JUN26"
+      ]
+    },
+    {
+      "originalName": "Industrial EthicsCSe332",
+      "cleanedName": "Industrial EthicsCSe332",
+      "code": "CSE332",
+      "allCodesFound": [
+        "CSE332",
+        "FIND62"
+      ]
+    },
+    {
+      "originalName": "Information security essentialscse407",
+      "cleanedName": "Information security essentialscse407",
+      "code": "CSE407",
+      "allCodesFound": [
+        "CSE407",
+        "INT242",
+        "FIND39"
+      ]
+    },
+    {
+      "originalName": "International English Language Testing System",
+      "cleanedName": "International English Language Testing System",
+      "code": "IN1989",
+      "allCodesFound": [
+        "IN1989",
+        "MAY20",
+        "NOV22"
+      ]
+    },
+    {
+      "originalName": "International Financial Managementfin 548",
+      "cleanedName": "International Financial Managementfin 548",
+      "code": "FIN548",
+      "allCodesFound": [
+        "FIN548",
+        "FIND21",
+        "ALL170"
+      ]
+    },
+    {
+      "originalName": "Internet working essentialscse307",
+      "cleanedName": "Internet working essentialscse307",
+      "code": "CSE307",
+      "allCodesFound": [
+        "CSE307",
+        "FIND72",
+        "USED603"
+      ]
+    },
+    {
+      "originalName": "Interpretation lawLLB",
+      "cleanedName": "Interpretation law",
+      "code": "FIND16",
+      "allCodesFound": [
+        "FIND16",
+        "CODE410",
+        "FOR2026"
+      ]
+    },
+    {
+      "originalName": "Introduction to IoT networking protocolsece128",
+      "cleanedName": "Introduction to IoT networking protocolsece128",
+      "code": "ECE128",
+      "allCodesFound": [
+        "ECE128",
+        "FIND12",
+        "MOOC2024"
+      ]
+    },
+    {
+      "originalName": "Intrpretation of StatutesLLB",
+      "cleanedName": "Intrpretation of Statutes",
+      "code": "FIND33",
+      "allCodesFound": [
+        "FIND33",
+        "HRM633",
+        "PART11"
+      ]
+    },
+    {
+      "originalName": "Itinerary Planning and Managementhmt752",
+      "cleanedName": "Itinerary Planning and Managementhmt752",
+      "code": "HMT752",
+      "allCodesFound": [
+        "HMT752",
+        "KO113",
+        "HMT803"
+      ]
+    },
+    {
+      "originalName": "Javascriptcse201",
+      "cleanedName": "Javascriptcse201",
+      "code": "CSE201",
+      "allCodesFound": [
+        "CSE201",
+        "INT219"
+      ]
+    },
+    {
+      "originalName": "LPU Academic Calendar for Full-Time Programs: Autumn Term 2025Cost and Management Accounting",
+      "cleanedName": "LPU Academic Calendar for Full-Time Programs: Autumn Term 2025Cost and Management Accounting",
+      "code": "TERM2025",
+      "allCodesFound": [
+        "TERM2025",
+        "AUG11",
+        "WITH11"
+      ]
+    },
+    {
+      "originalName": "Law of Contract",
+      "cleanedName": "Law of Contract",
+      "code": "FIND41",
+      "allCodesFound": [
+        "FIND41",
+        "FOR2026",
+        "LPU2920"
+      ]
+    },
+    {
+      "originalName": "MBADmgt516",
+      "cleanedName": "MBADmgt516",
+      "code": "DMGT516",
+      "allCodesFound": [
+        "DMGT516",
+        "FIND109",
+        "FOR2026"
+      ]
+    },
+    {
+      "originalName": "MCQ on Malware Forensics - UNI 6Malware Analysis",
+      "cleanedName": "MCQ on Malware Forensics - UNI 6Malware Analysis",
+      "code": "JUL23",
+      "allCodesFound": [
+        "JUL23",
+        "INT251",
+        "FIND12"
+      ]
+    },
+    {
+      "originalName": "Management Information System",
+      "cleanedName": "Management Information System",
+      "code": "OCT23",
+      "allCodesFound": [
+        "OCT23"
+      ]
+    },
+    {
+      "originalName": "Managerial economics 2Ecom518",
+      "cleanedName": "Managerial economics 2Ecom518",
+      "code": "ECOM518",
+      "allCodesFound": [
+        "ECOM518",
+        "GET30",
+        "DECO405"
+      ]
+    },
+    {
+      "originalName": "Market Management",
+      "cleanedName": "Market Management",
+      "code": "FIND28",
+      "allCodesFound": [
+        "FIND28",
+        "FOR2026",
+        "UNIT01"
+      ]
+    },
+    {
+      "originalName": "Masters In Computer ApplicationsMCA1",
+      "cleanedName": "Masters In Computer Applications",
+      "code": "FOR2026",
+      "allCodesFound": [
+        "FOR2026",
+        "FIND30",
+        "MCA5126"
+      ]
+    },
+    {
+      "originalName": "Mathematics class 10041",
+      "cleanedName": "Mathematics class 10041",
+      "code": "MTH401",
+      "allCodesFound": [
+        "MTH401",
+        "FIND208",
+        "MTH174"
+      ]
+    },
+    {
+      "originalName": "Microservicesint 334",
+      "cleanedName": "Microservicesint 334",
+      "code": "INT334",
+      "allCodesFound": [
+        "INT334",
+        "MAR26",
+        "SEP25"
+      ]
+    },
+    {
+      "originalName": "North Indian Cookery",
+      "cleanedName": "North Indian Cookery",
+      "code": "OF400",
+      "allCodesFound": [
+        "OF400",
+        "FOOD1221",
+        "AUG16"
+      ]
+    },
+    {
+      "originalName": "Overall syllabus",
+      "cleanedName": "Overall syllabus",
+      "code": "MAY28",
+      "allCodesFound": [
+        "MAY28",
+        "NEST2026",
+        "SEP11"
+      ]
+    },
+    {
+      "originalName": "Parasitology and Immunology",
+      "cleanedName": "Parasitology and Immunology",
+      "code": "BIO406",
+      "allCodesFound": [
+        "BIO406",
+        "FEB21"
+      ]
+    },
+    {
+      "originalName": "Pest Detection System Using Faster RCNN and SVM TechniquesDBMS",
+      "cleanedName": "Pest Detection System Using Faster RCNN and SVM Techniques",
+      "code": "AMNS2024",
+      "allCodesFound": [
+        "AMNS2024"
+      ]
+    },
+    {
+      "originalName": "Pev112 Unit 1 & 2 Grammar & Vocabulary Answers and ExercisesVerbal ability",
+      "cleanedName": "Pev112 Unit 1 & 2 Grammar & Vocabulary Answers and ExercisesVerbal ability",
+      "code": "PEV112",
+      "allCodesFound": [
+        "PEV112",
+        "FIND13",
+        "PEV107"
+      ]
+    },
+    {
+      "originalName": "Photo Journalism",
+      "cleanedName": "Photo Journalism",
+      "code": "HAS10",
+      "allCodesFound": [
+        "HAS10"
+      ]
+    },
+    {
+      "originalName": "Practical physicsPhy119",
+      "cleanedName": "Practical physicsPhy119",
+      "code": "PHY119",
+      "allCodesFound": [
+        "PHY119",
+        "FIND58",
+        "OCT03"
+      ]
+    },
+    {
+      "originalName": "Primary Manufacturing Labmec330 2021",
+      "cleanedName": "Primary Manufacturing Labmec330 2021",
+      "code": "MEC330",
+      "allCodesFound": [
+        "MEC330",
+        "SEP10",
+        "AND2017"
+      ]
+    },
+    {
+      "originalName": "Principles of Plant Pathology",
+      "cleanedName": "Principles of Plant Pathology",
+      "code": "JAN01",
+      "allCodesFound": [
+        "JAN01",
+        "CPS2101",
+        "PATH271"
+      ]
+    },
+    {
+      "originalName": "Product management foundation672",
+      "cleanedName": "Product management foundation672",
+      "code": "MKTM672",
+      "allCodesFound": [
+        "MKTM672",
+        "UNIT01",
+        "OUR10"
+      ]
+    },
+    {
+      "originalName": "Psychologypsy114",
+      "cleanedName": "Psychologypsy114",
+      "code": "PSY114",
+      "allCodesFound": [
+        "PSY114",
+        "FIND24"
+      ]
+    },
+    {
+      "originalName": "Psycholoical computingCse1234",
+      "cleanedName": "Psycholoical computingCse1234",
+      "code": "CSE1234",
+      "allCodesFound": [
+        "CSE1234",
+        "FIND624",
+        "GOPI76"
+      ]
+    },
+    {
+      "originalName": "Research methodologyMgn 206",
+      "cleanedName": "Research methodologyMgn 206",
+      "code": "MGN206",
+      "allCodesFound": [
+        "MGN206",
+        "FIND27"
+      ]
+    },
+    {
+      "originalName": "SRS for Online Book Store (K1512) - Software Requirements DocumentSoftware Engineering",
+      "cleanedName": "SRS for Online Book Store (K1512) - Software Requirements DocumentSoftware Engineering",
+      "code": "CPSC354",
+      "allCodesFound": [
+        "CPSC354",
+        "MAY23",
+        "JUL23"
+      ]
+    },
+    {
+      "originalName": "Securing COMPUTER SYSTEMSInt250",
+      "cleanedName": "Securing COMPUTER SYSTEMSInt250",
+      "code": "INT250",
+      "allCodesFound": [
+        "INT250",
+        "ST250",
+        "SR250"
+      ]
+    },
+    {
+      "originalName": "Security essentialsInt407",
+      "cleanedName": "Security essentialsInt407",
+      "code": "INT407",
+      "allCodesFound": [
+        "INT407",
+        "FIND30",
+        "EXAM020"
+      ]
+    },
+    {
+      "originalName": "Sociology",
+      "cleanedName": "Sociology",
+      "code": "SOC101",
+      "allCodesFound": [
+        "SOC101",
+        "HUQP22",
+        "FEES2026"
+      ]
+    },
+    {
+      "originalName": "Software EngineeringDcap 205",
+      "cleanedName": "Software EngineeringDcap 205",
+      "code": "DCAP205",
+      "allCodesFound": [
+        "DCAP205",
+        "FIND25",
+        "CSE205"
+      ]
+    },
+    {
+      "originalName": "Software enginneringcse374",
+      "cleanedName": "Software enginneringcse374",
+      "code": "CSE374",
+      "allCodesFound": [
+        "CSE374",
+        "FIND18"
+      ]
+    },
+    {
+      "originalName": "Strength of material",
+      "cleanedName": "Strength of material",
+      "code": "MEC201",
+      "allCodesFound": [
+        "MEC201",
+        "LEC19"
+      ]
+    },
+    {
+      "originalName": "Synthetic and system biologybty177",
+      "cleanedName": "Synthetic and system biologybty177",
+      "code": "BTY177",
+      "allCodesFound": [
+        "BTY177",
+        "CCT1845"
+      ]
+    },
+    {
+      "originalName": "The Cost Of Overusing EarthHTML and CSS",
+      "cleanedName": "The Cost Of Overusing EarthHTML and CSS",
+      "code": "CSE326",
+      "allCodesFound": [
+        "CSE326",
+        "FIND57",
+        "APR28"
+      ]
+    },
+    {
+      "originalName": "UNIT 1 - Lecture Notes Summary for Chapters 1 to 4Mathematics",
+      "cleanedName": "UNIT 1 - Lecture Notes Summary for Chapters 1 to 4Mathematics",
+      "code": "MTH165",
+      "allCodesFound": [
+        "MTH165",
+        "FIND262",
+        "FALL2006"
+      ]
+    },
+    {
+      "originalName": "Unit 2: Stakeholder Management & Communication Analysis Noteslpunest let",
+      "cleanedName": "Unit 2: Stakeholder Management & Communication Analysis Noteslpunest let",
+      "code": "LEC07",
+      "allCodesFound": [
+        "LEC07",
+        "BUS6130",
+        "BUS5611"
+      ]
+    },
+    {
+      "originalName": "Unit 5 Malware Analysis Techniques and ToolsMalware Analysis",
+      "cleanedName": "Unit 5 Malware Analysis Techniques and ToolsMalware Analysis",
+      "code": "INT251",
+      "allCodesFound": [
+        "INT251",
+        "JAN22",
+        "AUG16"
+      ]
+    },
+    {
+      "originalName": "Unit-3 Web Design: Comprehensive Guide to PHP & MySQL IntegrationBca (big Data Analytics)",
+      "cleanedName": "Unit-3 Web Design: Comprehensive Guide to PHP & MySQL IntegrationBca (big Data Analytics)",
+      "code": "MAR12",
+      "allCodesFound": [
+        "MAR12",
+        "OCT30",
+        "CIS408"
+      ]
+    },
+    {
+      "originalName": "Unity course for MOOCCap 735",
+      "cleanedName": "Unity course for MOOCCap 735",
+      "code": "CAP735",
+      "allCodesFound": [
+        "CAP735"
+      ]
+    },
+    {
+      "originalName": "Urban Planning",
+      "cleanedName": "Urban Planning",
+      "code": "OF500",
+      "allCodesFound": [
+        "OF500",
+        "OF797",
+        "OF2000"
+      ]
+    },
+    {
+      "originalName": "VI PROJECT MANAGEMENT AGILE PRACTICES ADOPTION (50 MCQs with Answers)project management",
+      "cleanedName": "VI PROJECT MANAGEMENT AGILE PRACTICES ADOPTION (50 MCQs with Answers)project management",
+      "code": "WITH50",
+      "allCodesFound": [
+        "WITH50"
+      ]
+    },
+    {
+      "originalName": "Vedic mathMth 807",
+      "cleanedName": "Vedic mathMth 807",
+      "code": "MTH807",
+      "allCodesFound": [
+        "MTH807",
+        "FIND45",
+        "CAT99"
+      ]
+    },
+    {
+      "originalName": "Verbal abilityPev113",
+      "cleanedName": "Verbal abilityPev113",
+      "code": "PEV113",
+      "allCodesFound": [
+        "PEV113",
+        "MAR26",
+        "FIND24"
+      ]
+    },
+    {
+      "originalName": "Virtualization and Cloud Computing Laboratorycse 427",
+      "cleanedName": "Virtualization and Cloud Computing Laboratorycse 427",
+      "code": "CSE427",
+      "allCodesFound": [
+        "CSE427",
+        "FIND51",
+        "CSE423"
+      ]
+    },
+    {
+      "originalName": "Vulnerability Assessment for Data Visualization: Pros & Cons Analysisdata Visualization (TABLUE)",
+      "cleanedName": "Vulnerability Assessment for Data Visualization: Pros & Cons Analysisdata Visualization (TABLUE)",
+      "code": "APR29",
+      "allCodesFound": [
+        "APR29",
+        "JAN30",
+        "ARE10"
+      ]
+    },
+    {
+      "originalName": "Web Development in Python Using DjangoInt253",
+      "cleanedName": "Web Development in Python Using DjangoInt253",
+      "code": "INT253",
+      "allCodesFound": [
+        "INT253",
+        "JUL23",
+        "DEC19"
+      ]
+    },
+    {
+      "originalName": "XAT syllabus",
+      "cleanedName": "XAT syllabus",
+      "code": "JUN10",
+      "allCodesFound": [
+        "JUN10",
+        "SEP18",
+        "XAT2026"
+      ]
+    },
+    {
+      "originalName": "accountsacc201",
+      "cleanedName": "accountsacc201",
+      "code": "OVER21",
+      "allCodesFound": [
+        "OVER21",
+        "ACC201",
+        "FIND21"
+      ]
+    },
+    {
+      "originalName": "basic financial managementfin212",
+      "cleanedName": "basic financial managementfin212",
+      "code": "FIN212",
+      "allCodesFound": [
+        "FIN212",
+        "DMGT207"
+      ]
+    },
+    {
+      "originalName": "batchelor at law",
+      "cleanedName": "batchelor at law",
+      "code": "FOR2026",
+      "allCodesFound": [
+        "FOR2026",
+        "LLB4947",
+        "FEES2026"
+      ]
+    },
+    {
+      "originalName": "bcaaapel 200",
+      "cleanedName": "bcaaapel 200",
+      "code": "SM8000",
+      "allCodesFound": [
+        "SM8000"
+      ]
+    },
+    {
+      "originalName": "btech food tech",
+      "cleanedName": "btech food tech",
+      "code": "FOR2026",
+      "allCodesFound": [
+        "FOR2026",
+        "FEES2026",
+        "OF500"
+      ]
+    },
+    {
+      "originalName": "business marketingmkt 303",
+      "cleanedName": "business marketingmkt 303",
+      "code": "MKT303",
+      "allCodesFound": [
+        "MKT303",
+        "FIND36",
+        "KO134"
+      ]
+    },
+    {
+      "originalName": "business to business marketingb2b mkt",
+      "cleanedName": "business to business marketingb2b mkt",
+      "code": "FIND43",
+      "allCodesFound": [
+        "FIND43",
+        "LEC01",
+        "JULY2018"
+      ]
+    },
+    {
+      "originalName": "c languagecse101",
+      "cleanedName": "c languagecse101",
+      "code": "CSE101",
+      "allCodesFound": [
+        "CSE101",
+        "FIND132"
+      ]
+    },
+    {
+      "originalName": "cisco packetece418",
+      "cleanedName": "cisco packetece418",
+      "code": "ECE418",
+      "allCodesFound": [
+        "ECE418",
+        "CAT9300",
+        "NEW9300"
+      ]
+    },
+    {
+      "originalName": "cloud application developementcsi 331",
+      "cleanedName": "cloud application developementcsi 331",
+      "code": "CSI331",
+      "allCodesFound": [
+        "CSI331",
+        "JUL23",
+        "CSE331"
+      ]
+    },
+    {
+      "originalName": "communication skillspel136",
+      "cleanedName": "communication skillspel136",
+      "code": "DENG101",
+      "allCodesFound": [
+        "DENG101",
+        "PEL135",
+        "PEL136"
+      ]
+    },
+    {
+      "originalName": "computer networks laboratorycap-257",
+      "cleanedName": "computer networks laboratorycap-257",
+      "code": "CAP257",
+      "allCodesFound": [
+        "CAP257",
+        "FIND19",
+        "CSE307"
+      ]
+    },
+    {
+      "originalName": "computer visionint345",
+      "cleanedName": "computer visionint345",
+      "code": "INT345",
+      "allCodesFound": [
+        "INT345"
+      ]
+    },
+    {
+      "originalName": "constitution lawlaw 399",
+      "cleanedName": "constitution lawlaw 399",
+      "code": "LAW399",
+      "allCodesFound": [
+        "LAW399",
+        "FIND68",
+        "DEC12"
+      ]
+    },
+    {
+      "originalName": "coordinated science0654",
+      "cleanedName": "coordinated science0654",
+      "code": "FIND36",
+      "allCodesFound": [
+        "FIND36",
+        "MATE10"
+      ]
+    },
+    {
+      "originalName": "cunning computercse669",
+      "cleanedName": "cunning computercse669",
+      "code": "CSE669",
+      "allCodesFound": [
+        "CSE669",
+        "FOR2026",
+        "FIND624"
+      ]
+    },
+    {
+      "originalName": "data scienceint217",
+      "cleanedName": "data scienceint217",
+      "code": "INT217",
+      "allCodesFound": [
+        "INT217",
+        "FIND27"
+      ]
+    },
+    {
+      "originalName": "digital marketingmkt309",
+      "cleanedName": "digital marketingmkt309",
+      "code": "MKT309",
+      "allCodesFound": [
+        "MKT309",
+        "FIND36",
+        "FOR2026"
+      ]
+    },
+    {
+      "originalName": "distributed cloud computingcsr 204",
+      "cleanedName": "distributed cloud computingcsr 204",
+      "code": "CSR204",
+      "allCodesFound": [
+        "CSR204",
+        "CSE204",
+        "CS101"
+      ]
+    },
+    {
+      "originalName": "dsa self placedcse 322",
+      "cleanedName": "dsa self placedcse 322",
+      "code": "CSE322",
+      "allCodesFound": [
+        "CSE322",
+        "FIND37"
+      ]
+    },
+    {
+      "originalName": "emerging technoogies for managersmgn575",
+      "cleanedName": "emerging technoogies for managersmgn575",
+      "code": "MGN575",
+      "allCodesFound": [
+        "MGN575",
+        "FIND11",
+        "SHOW10"
+      ]
+    },
+    {
+      "originalName": "engineering workshopmec108",
+      "cleanedName": "engineering workshopmec108",
+      "code": "MEC108",
+      "allCodesFound": [
+        "MEC108",
+        "GOPI76",
+        "MEC107"
+      ]
+    },
+    {
+      "originalName": "engneering phyphy110",
+      "cleanedName": "engneering phyphy110",
+      "code": "PHY110",
+      "allCodesFound": [
+        "PHY110",
+        "FIND264",
+        "FIND39"
+      ]
+    },
+    {
+      "originalName": "enviormental chemistryche882",
+      "cleanedName": "enviormental chemistryche882",
+      "code": "CHE882",
+      "allCodesFound": [
+        "CHE882",
+        "TOP30",
+        "AUG13"
+      ]
+    },
+    {
+      "originalName": "family lawlaw206",
+      "cleanedName": "family lawlaw206",
+      "code": "LAW206",
+      "allCodesFound": [
+        "LAW206",
+        "FIND22",
+        "FAM121"
+      ]
+    },
+    {
+      "originalName": "financial derivativesFin550",
+      "cleanedName": "financial derivativesFin550",
+      "code": "FIN550",
+      "allCodesFound": [
+        "FIN550",
+        "FIND41",
+        "BU0014"
+      ]
+    },
+    {
+      "originalName": "food engneeringfot529",
+      "cleanedName": "food engneeringfot529",
+      "code": "FOT529",
+      "allCodesFound": [
+        "FOT529",
+        "FIND13"
+      ]
+    },
+    {
+      "originalName": "forensic scienceFsc 102",
+      "cleanedName": "forensic scienceFsc 102",
+      "code": "FOR2026",
+      "allCodesFound": [
+        "FOR2026",
+        "FSC102",
+        "FIND35"
+      ]
+    },
+    {
+      "originalName": "game designint 209",
+      "cleanedName": "game designint 209",
+      "code": "INT209",
+      "allCodesFound": [
+        "INT209",
+        "WITH50",
+        "FEES2026"
+      ]
+    },
+    {
+      "originalName": "google cloud fundamentalscsg 201",
+      "cleanedName": "google cloud fundamentalscsg 201",
+      "code": "CSG201",
+      "allCodesFound": [
+        "CSG201",
+        "AUG30"
+      ]
+    },
+    {
+      "originalName": "imperative competitive coding techniquescsf204",
+      "cleanedName": "imperative competitive coding techniquescsf204",
+      "code": "CSF204",
+      "allCodesFound": [
+        "CSF204",
+        "CSF202",
+        "GET30"
+      ]
+    },
+    {
+      "originalName": "international businessmgn 301",
+      "cleanedName": "international businessmgn 301",
+      "code": "MGN301",
+      "allCodesFound": [
+        "MGN301",
+        "INB301",
+        "MGT301"
+      ]
+    },
+    {
+      "originalName": "internet programmingcse 326",
+      "cleanedName": "internet programmingcse 326",
+      "code": "CSE326",
+      "allCodesFound": [
+        "CSE326",
+        "FIND57"
+      ]
+    },
+    {
+      "originalName": "introduction to devopsint331",
+      "cleanedName": "introduction to devopsint331",
+      "code": "INT331",
+      "allCodesFound": [
+        "INT331",
+        "SINT331"
+      ]
+    },
+    {
+      "originalName": "jurisprudence",
+      "cleanedName": "jurisprudence",
+      "code": "LPU4920",
+      "allCodesFound": [
+        "LPU4920",
+        "LLB402",
+        "LPU3940"
+      ]
+    },
+    {
+      "originalName": "law of torts108",
+      "cleanedName": "law of torts108",
+      "code": "LAW108",
+      "allCodesFound": [
+        "LAW108",
+        "OCT24"
+      ]
+    },
+    {
+      "originalName": "linuxcap 454",
+      "cleanedName": "linuxcap 454",
+      "code": "CAP454",
+      "allCodesFound": [
+        "CAP454",
+        "FIND19",
+        "FROM100"
+      ]
+    },
+    {
+      "originalName": "lpunest letnothing2022",
+      "cleanedName": "lpunest letnothing2022",
+      "code": "FIND38",
+      "allCodesFound": [
+        "FIND38",
+        "IN2025",
+        "FORM2026"
+      ]
+    },
+    {
+      "originalName": "medical labmlt1924",
+      "cleanedName": "medical labmlt1924",
+      "code": "MLT1924",
+      "allCodesFound": [
+        "MLT1924",
+        "FIND14",
+        "FOR2026"
+      ]
+    },
+    {
+      "originalName": "non linear data structures and algorithmic paradigmscsf205",
+      "cleanedName": "non linear data structures and algorithmic paradigmscsf205",
+      "code": "CSF205",
+      "allCodesFound": [
+        "CSF205",
+        "CSE205",
+        "JUL12"
+      ]
+    },
+    {
+      "originalName": "object oriented programmingint105",
+      "cleanedName": "object oriented programmingint105",
+      "code": "INT105",
+      "allCodesFound": [
+        "INT105",
+        "FIND17",
+        "CSE202"
+      ]
+    },
+    {
+      "originalName": "open minors",
+      "cleanedName": "open minors",
+      "code": "TOP100",
+      "allCodesFound": [
+        "TOP100",
+        "FOR2026",
+        "APR17"
+      ]
+    },
+    {
+      "originalName": "pavement materialsciv434",
+      "cleanedName": "pavement materialsciv434",
+      "code": "CIV434",
+      "allCodesFound": [
+        "CIV434"
+      ]
+    },
+    {
+      "originalName": "physical education",
+      "cleanedName": "physical education",
+      "code": "FOR2026",
+      "allCodesFound": [
+        "FOR2026",
+        "BPED214",
+        "FEES2026"
+      ]
+    },
+    {
+      "originalName": "power bi lpucse324",
+      "cleanedName": "power bi lpucse324",
+      "code": "CSE324",
+      "allCodesFound": [
+        "CSE324"
+      ]
+    },
+    {
+      "originalName": "programme orientationmec100",
+      "cleanedName": "programme orientationmec100",
+      "code": "OCT15",
+      "allCodesFound": [
+        "OCT15",
+        "TOP100",
+        "FOR2026"
+      ]
+    },
+    {
+      "originalName": "project managementcseb422",
+      "cleanedName": "project managementcseb422",
+      "code": "CSEB422",
+      "allCodesFound": [
+        "CSEB422",
+        "CSEB442"
+      ]
+    },
+    {
+      "originalName": "public policy and analysispba 399",
+      "cleanedName": "public policy and analysispba 399",
+      "code": "PBA399",
+      "allCodesFound": [
+        "PBA399",
+        "PPA509",
+        "PPL399"
+      ]
+    },
+    {
+      "originalName": "security analysis and portfolio managementfin547",
+      "cleanedName": "security analysis and portfolio managementfin547",
+      "code": "FIN547",
+      "allCodesFound": [
+        "FIN547",
+        "FIND12",
+        "NONE22"
+      ]
+    },
+    {
+      "originalName": "service marketingmkt515",
+      "cleanedName": "service marketingmkt515",
+      "code": "MKT515",
+      "allCodesFound": [
+        "MKT515",
+        "FIND24",
+        "MKTM515"
+      ]
+    },
+    {
+      "originalName": "social mediamkt502",
+      "cleanedName": "social mediamkt502",
+      "code": "MKT502",
+      "allCodesFound": [
+        "MKT502",
+        "FIND34",
+        "MAY10"
+      ]
+    },
+    {
+      "originalName": "software engineeringcse-320",
+      "cleanedName": "software engineeringcse-320",
+      "code": "CSE320",
+      "allCodesFound": [
+        "CSE320",
+        "FIND495",
+        "MAR12"
+      ]
+    },
+    {
+      "originalName": "software project managementint411",
+      "cleanedName": "software project managementint411",
+      "code": "INT411",
+      "allCodesFound": [
+        "INT411",
+        "FIND14",
+        "INTB411"
+      ]
+    },
+    {
+      "originalName": "sql and visulizationint 350",
+      "cleanedName": "sql and visulizationint 350",
+      "code": "INT350",
+      "allCodesFound": [
+        "INT350",
+        "FIND14",
+        "JAN24"
+      ]
+    },
+    {
+      "originalName": "statistical techniques5i2",
+      "cleanedName": "statistical techniques5i2",
+      "code": "DEC16",
+      "allCodesFound": [
+        "DEC16",
+        "DPSY527",
+        "UNIT01"
+      ]
+    },
+    {
+      "originalName": "traffic engineering and modellingciv542",
+      "cleanedName": "traffic engineering and modellingciv542",
+      "code": "CIV542",
+      "allCodesFound": [
+        "CIV542",
+        "AND2016",
+        "MAY2012"
+      ]
+    },
+    {
+      "originalName": "ui/uxixd801",
+      "cleanedName": "ui/uxixd801",
+      "code": "IXD801",
+      "allCodesFound": [
+        "IXD801",
+        "NOV26",
+        "DEEU29"
+      ]
+    },
+    {
+      "originalName": "user manualcse 101",
+      "cleanedName": "user manualcse 101",
+      "code": "CSE101",
+      "allCodesFound": [
+        "CSE101",
+        "FIND132"
+      ]
+    },
+    {
+      "originalName": "vedic mathematicsmth880",
+      "cleanedName": "vedic mathematicsmth880",
+      "code": "MTH880",
+      "allCodesFound": [
+        "MTH880",
+        "HERO2025",
+        "NEAR100"
+      ]
+    },
+    {
+      "originalName": "web app development with react jsint 252",
+      "cleanedName": "web app development with react jsint 252",
+      "code": "INT252",
+      "allCodesFound": [
+        "INT252",
+        "FIND43",
+        "JUL11"
+      ]
+    },
+    {
+      "originalName": "yogacdp",
+      "cleanedName": "yogacdp",
+      "code": "FIND33",
+      "allCodesFound": [
+        "FIND33",
+        "MGN231",
+        "GEN231"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,280 @@
+/* ===== UNIVERSAL SHARE MODAL ===== */
+
+.share-modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.6);
+  backdrop-filter: blur(4px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 10000;
+  padding: 1rem;
+}
+
+.share-modal {
+  background: var(--surface, #1e293b);
+  border-radius: 20px;
+  max-width: 500px;
+  width: 100%;
+  box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5);
+  border: 1px solid var(--border, #334155);
+  overflow: hidden;
+}
+
+.share-modal-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1.5rem;
+  border-bottom: 1px solid var(--border, #334155);
+}
+
+.share-modal-header h3 {
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: var(--text-main, #f8fafc);
+  margin: 0;
+}
+
+.close-btn {
+  background: none;
+  border: none;
+  color: var(--text-muted, #94a3b8);
+  cursor: pointer;
+  padding: 0.5rem;
+  border-radius: 8px;
+  transition: all 0.2s ease;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.close-btn:hover {
+  background: var(--surface-hover, #2d3748);
+  color: var(--text-main, #f8fafc);
+}
+
+.share-modal-content {
+  padding: 1.5rem;
+}
+
+/* Copy Link Section */
+.copy-link-section {
+  display: flex;
+  gap: 0.75rem;
+  margin-bottom: 1.5rem;
+}
+
+.share-url-input {
+  flex: 1;
+  padding: 0.75rem 1rem;
+  background: var(--background, #0f172a);
+  border: 1px solid var(--border, #334155);
+  border-radius: 10px;
+  color: var(--text-main, #f8fafc);
+  font-size: 0.875rem;
+  font-family: 'Courier New', monospace;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.share-url-input:focus {
+  outline: none;
+  border-color: var(--primary, #6366f1);
+  box-shadow: 0 0 0 3px rgba(99, 102, 241, 0.1);
+}
+
+.copy-btn {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.75rem 1.25rem;
+  background: var(--primary, #6366f1);
+  border: none;
+  border-radius: 10px;
+  color: white;
+  font-weight: 600;
+  font-size: 0.875rem;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.copy-btn:hover {
+  background: var(--primary-dark, #4f46e5);
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(99, 102, 241, 0.4);
+}
+
+.copy-btn.copied {
+  background: #10b981;
+}
+
+.copy-btn.copied:hover {
+  background: #059669;
+}
+
+/* Share Options */
+.share-options {
+  margin-bottom: 1.5rem;
+}
+
+.share-label {
+  font-size: 0.875rem;
+  font-weight: 600;
+  color: var(--text-muted, #94a3b8);
+  margin-bottom: 0.75rem;
+}
+
+.share-buttons {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 0.75rem;
+}
+
+.share-platform-btn {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 1rem 0.5rem;
+  background: var(--surface-hover, #2d3748);
+  border: 1px solid var(--border, #334155);
+  border-radius: 12px;
+  color: var(--text-main, #f8fafc);
+  font-size: 0.8125rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.share-platform-btn:hover {
+  background: var(--platform-color);
+  border-color: var(--platform-color);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+.share-platform-btn:hover svg {
+  transform: scale(1.1);
+}
+
+.share-platform-btn svg {
+  transition: transform 0.2s ease;
+}
+
+/* QR Code Section */
+.qr-section {
+  border-top: 1px solid var(--border, #334155);
+  padding-top: 1.5rem;
+}
+
+.qr-toggle-btn {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.75rem 1rem;
+  background: var(--surface-hover, #2d3748);
+  border: 1px solid var(--border, #334155);
+  border-radius: 10px;
+  color: var(--text-main, #f8fafc);
+  font-weight: 600;
+  font-size: 0.875rem;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  width: 100%;
+  justify-content: center;
+}
+
+.qr-toggle-btn:hover {
+  background: var(--primary, #6366f1);
+  border-color: var(--primary, #6366f1);
+}
+
+.qr-code-display {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 1.5rem;
+  margin-top: 1rem;
+  background: white;
+  border-radius: 12px;
+}
+
+.qr-code-image {
+  width: 200px;
+  height: 200px;
+  border-radius: 8px;
+}
+
+.qr-hint {
+  margin-top: 0.75rem;
+  font-size: 0.8125rem;
+  color: #64748b;
+  font-weight: 500;
+}
+
+/* Responsive */
+@media (max-width: 640px) {
+  .share-buttons {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  
+  .copy-link-section {
+    flex-direction: column;
+  }
+  
+  .copy-btn {
+    justify-content: center;
+  }
+}
+
+/* Light Theme Support */
+.light-theme .share-modal {
+  background: #ffffff;
+  border-color: #e5e7eb;
+}
+
+.light-theme .share-modal-header {
+  border-bottom-color: #e5e7eb;
+}
+
+.light-theme .share-modal-header h3 {
+  color: #111827;
+}
+
+.light-theme .close-btn {
+  color: #6b7280;
+}
+
+.light-theme .close-btn:hover {
+  background: #f3f4f6;
+  color: #111827;
+}
+
+.light-theme .share-url-input {
+  background: #f9fafb;
+  border-color: #e5e7eb;
+  color: #111827;
+}
+
+.light-theme .share-platform-btn {
+  background: #f9fafb;
+  border-color: #e5e7eb;
+  color: #111827;
+}
+
+.light-theme .qr-toggle-btn {
+  background: #f9fafb;
+  border-color: #e5e7eb;
+  color: #111827;
+}
+
+.light-theme .share-label {
+  color: #6b7280;
+}

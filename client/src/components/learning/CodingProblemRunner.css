@@ -1,0 +1,299 @@
+/* CodingProblemRunner.css */
+
+.runner-container {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  background-color: #f8f9fa;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  overflow: hidden;
+}
+
+.runner-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.75rem 1.5rem;
+  background-color: #ffffff;
+  border-bottom: 1px solid #e5e7eb;
+  flex-shrink: 0;
+}
+
+.runner-header-left {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.back-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: none;
+  background: transparent;
+  cursor: pointer;
+  color: #6b7280;
+  padding: 0.5rem;
+  border-radius: 0.375rem;
+  transition: background-color 0.2s;
+}
+
+.back-button:hover {
+  background-color: #f3f4f6;
+}
+
+.problem-title-group h2 {
+  font-size: 1.125rem;
+  font-weight: 600;
+  color: #1f2937;
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin: 0;
+}
+
+.difficulty-badge {
+  font-size: 0.75rem;
+  padding: 0.125rem 0.5rem;
+  border-radius: 9999px;
+  font-weight: 500;
+}
+
+.difficulty-easy { background-color: #d1fae5; color: #059669; }
+.difficulty-medium { background-color: #fef3c7; color: #d97706; }
+.difficulty-hard { background-color: #fee2e2; color: #dc2626; }
+
+.runner-header-right {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.language-select {
+  padding: 0.375rem 2rem 0.375rem 0.75rem;
+  background-color: #f3f4f6;
+  border: 1px solid transparent;
+  border-radius: 0.375rem;
+  font-size: 0.875rem;
+  color: #374151;
+  cursor: pointer;
+  outline: none;
+}
+
+.language-select:focus {
+  border-color: #8b5cf6;
+  background-color: #ffffff;
+}
+
+.btn-run, .btn-submit {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.375rem 1rem;
+  border-radius: 0.375rem;
+  font-size: 0.875rem;
+  font-weight: 500;
+  cursor: pointer;
+  border: none;
+  transition: all 0.2s;
+}
+
+.btn-run {
+  background-color: #f3f4f6;
+  color: #4b5563;
+}
+
+.btn-run:hover {
+  background-color: #e5e7eb;
+  color: #374151;
+}
+
+.btn-submit {
+  background-color: #10b981;
+  color: white;
+}
+
+.btn-submit:hover {
+  background-color: #059669;
+}
+
+.btn-run:disabled, .btn-submit:disabled {
+  opacity: 0.7;
+  cursor: not-allowed;
+}
+
+/* Main Content Split */
+.runner-body {
+  flex: 1;
+  display: flex;
+  overflow: hidden;
+}
+
+.left-panel {
+  width: 40%;
+  background-color: #ffffff;
+  border-right: 1px solid #e5e7eb;
+  display: flex;
+  flex-direction: column;
+  min-width: 300px;
+}
+
+.panel-content {
+  flex: 1;
+  overflow-y: auto;
+  padding: 1.5rem;
+}
+
+.prose {
+  color: #374151;
+  line-height: 1.6;
+}
+
+.prose pre {
+    background: #f3f4f6;
+    padding: 0.5rem;
+    border-radius: 4px;
+    overflow-x: auto;
+}
+
+.example-card {
+  background-color: #f9fafb;
+  border: 1px solid #e5e7eb;
+  border-radius: 0.5rem;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  font-size: 0.875rem;
+}
+
+.example-card strong {
+  color: #4b5563;
+}
+
+.constraints-box {
+  background-color: #f9fafb;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  border: 1px solid #e5e7eb;
+}
+
+.constraints-box ul {
+  margin: 0;
+  padding-left: 1.25rem;
+}
+
+.right-panel {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  min-width: 400px;
+  background-color: #ffffff;
+}
+
+.editor-wrapper {
+  flex: 1;
+  position: relative;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.output-panel {
+  height: 35%;
+  min-height: 150px;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+}
+
+.output-tabs {
+  display: flex;
+  border-bottom: 1px solid #e5e7eb;
+  background-color: #f9fafb;
+}
+
+.tab-btn {
+  padding: 0.5rem 1rem;
+  font-size: 0.875rem;
+  font-weight: 500;
+  color: #6b7280;
+  background: transparent;
+  border: none;
+  border-bottom: 2px solid transparent;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.tab-btn:hover {
+  color: #374151;
+}
+
+.tab-btn.active {
+  color: #8b5cf6;
+  border-bottom-color: #8b5cf6;
+  background-color: #ffffff;
+}
+
+.output-content {
+  flex: 1;
+  overflow-y: auto;
+  padding: 1rem;
+  font-family: 'Menlo', 'Monaco', 'Courier New', monospace;
+  font-size: 0.875rem;
+  color: #374151;
+}
+
+.error-box {
+  background-color: #fef2f2;
+  border: 1px solid #fee2e2;
+  color: #991b1b;
+  padding: 1rem;
+  border-radius: 0.375rem;
+}
+
+.success-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  background-color: #ecfdf5;
+  color: #047857;
+  padding: 0.75rem 1rem;
+  border-radius: 0.5rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+}
+
+.failure-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    background-color: #fef2f2;
+    color: #b91c1c;
+    padding: 0.75rem 1rem;
+    border-radius: 0.5rem;
+    font-weight: 600;
+    margin-bottom: 1rem;
+}
+
+.test-case-item {
+  border: 1px solid #e5e7eb;
+  border-radius: 0.375rem;
+  padding: 0.75rem;
+  margin-bottom: 0.75rem;
+  background-color: #ffffff;
+}
+
+.test-case-item.passed { border-left: 4px solid #10b981; }
+.test-case-item.failed { border-left: 4px solid #ef4444; }
+
+.test-case-header {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 0.5rem;
+  font-weight: 600;
+  font-size: 0.8rem;
+}
+
+.code-block {
+  background-color: #f3f4f6;
+  padding: 0.25rem 0.5rem;
+  border-radius: 0.25rem;
+  font-family: monospace;
+}
