@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Lock, AlertCircle, ShieldCheck } from 'lucide-react';
 import axios from 'axios';
-import { VITE_API_URL } from '../../config/api';
+import API_URL from '../config/api';
 
 const AdminGuard = ({ children }) => {
   const [isAuthenticated, setIsAuthenticated] = useState(false);
@@ -24,7 +24,7 @@ const AdminGuard = ({ children }) => {
       setError('');
       
       const response = await axios.post(
-        `${VITE_API_URL}/api/admin/verify`, 
+        `${API_URL}/api/admin/verify`, 
         {}, // Empty body
         { headers: { 'x-admin-passkey': keyToTest } }
       );
