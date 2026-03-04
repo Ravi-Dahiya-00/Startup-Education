@@ -15,7 +15,6 @@ if (!process.env.JWT_SECRET) {
 
 // Security specific middlewares
 const rateLimit = require("express-rate-limit");
-const mongoSanitize = require("express-mongo-sanitize");
 
 // Middleware
 app.use(helmet()); // Enable default secure headers (including CSP)
@@ -42,8 +41,7 @@ app.use(
 
 app.use(express.json());
 
-// Prevent NoSQL Injection by sanitizing user input
-app.use(mongoSanitize());
+// Removed express-mongo-sanitize due to Express 5 compatibility throwing TypeErrors
 
 // Apply rate limiting to all API requests
 const apiLimiter = rateLimit({
