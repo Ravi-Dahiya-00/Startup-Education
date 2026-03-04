@@ -140,10 +140,26 @@ router.patch("/me", auth, async (req, res) => {
   }
 });
 
+// Wrapped multer middleware for better error handling on file size limits
+const handleAvatarUpload = (req, res, next) => {
+  upload.single("avatar")(req, res, function (err) {
+    if (err instanceof multer.MulterError) {
+      if (err.code === "LIMIT_FILE_SIZE") {
+        return res.status(400).json({ message: "File size cannot exceed 1MB" });
+      }
+      return res.status(400).json({ message: err.message });
+    } else if (err) {
+      return res.status(400).json({ message: err.message });
+    }
+    // Everything went fine.
+    next();
+  });
+};
+
 // @route   POST /api/users/me/avatar
 // @desc    Upload profile picture
 // @access  Private
-router.post("/me/avatar", auth, upload.single("avatar"), async (req, res) => {
+router.post("/me/avatar", auth, handleAvatarUpload, async (req, res) => {
   try {
     if (!req.file) {
       return res.status(400).json({ message: "Please upload a file" });

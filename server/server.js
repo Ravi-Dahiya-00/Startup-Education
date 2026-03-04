@@ -56,7 +56,8 @@ const apiLimiter = rateLimit({
 });
 app.use("/api/", apiLimiter);
 
-app.use("/uploads", express.static("uploads")); // Serve uploaded files
+const auth = require("./middleware/auth"); // Import auth middleware
+app.use("/uploads", auth, express.static("uploads")); // Serve uploaded files only to authenticated users
 
 // Fix for Google Auth Cross-Origin-Opener-Policy
 app.use((req, res, next) => {

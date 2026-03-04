@@ -3,6 +3,7 @@ const router = express.Router();
 const bcrypt = require('bcryptjs');
 const jwt = require('jsonwebtoken');
 const User = require('../models/User');
+const rateLimit = require('express-rate-limit');
 const { OAuth2Client } = require('google-auth-library');
 const client = new OAuth2Client(process.env.GOOGLE_CLIENT_ID);
 
@@ -11,8 +12,15 @@ router.get('/test', (req, res) => {
   res.json({ status: 'Backend is reachable' });
 });
 
+// Strict Rate Limiting for Auth
+const authLimiter = rateLimit({
+  windowMs: 15 * 60 * 1000, // 15 minutes
+  max: 5, // Limit each IP to 5 requests per windowMs
+  message: { message: 'Too many login attempts from this IP, please try again after 15 minutes' }
+});
+
 // Register
-router.post('/register', async (req, res) => {
+router.post('/register', authLimiter, async (req, res) => {
   const { name, email, password, username, role } = req.body;
 
   try {
@@ -40,8 +48,8 @@ router.post('/register', async (req, res) => {
       return res.status(400).json({ message: 'Username already taken' });
     }
 
-    // Hash password
-    const salt = await bcrypt.genSalt(10);
+    // Hash password with stronger work factor (12 rounds)
+    const salt = await bcrypt.genSalt(12);
     const hashedPassword = await bcrypt.hash(password, salt);
 
     // Create user
@@ -80,7 +88,7 @@ router.post('/register', async (req, res) => {
 });
 
 // Login
-router.post('/login', async (req, res) => {
+router.post('/login', authLimiter, async (req, res) => {
   const { email, password } = req.body;
 
   try {
