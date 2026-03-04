@@ -16,11 +16,18 @@ router.get('/', async (req, res) => {
       return res.status(400).json({ message: 'Search query is required' });
     }
 
-    const searchQuery = q.trim();
+    // Limit search query length to prevent DoS attacks via huge regex payloads
+    let searchQuery = q.trim();
+    if (searchQuery.length > 100) {
+      searchQuery = searchQuery.substring(0, 100);
+    }
+
     const resultsLimit = parseInt(limit) || 10;
 
-    // Create regex for case-insensitive search
-    const searchRegex = new RegExp(searchQuery, 'i');
+    // Create regex for case-insensitive search, ESCAPING user input to prevent ReDoS
+    const escapeRegex = (string) => string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    const safeQuery = escapeRegex(searchQuery);
+    const searchRegex = new RegExp(safeQuery, 'i');
 
     const results = {
       internships: [],
@@ -148,7 +155,15 @@ router.get('/suggestions', async (req, res) => {
       return res.json({ suggestions: [] });
     }
 
-    const searchRegex = new RegExp(q.trim(), 'i');
+    // Limit length and escape regex for suggestions as well
+    let suggestionQuery = q.trim();
+    if (suggestionQuery.length > 100) {
+      suggestionQuery = suggestionQuery.substring(0, 100);
+    }
+    
+    const escapeRegex = (string) => string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    const safeQuery = escapeRegex(suggestionQuery);
+    const searchRegex = new RegExp(safeQuery, 'i');
     const limit = 3;
 
     const suggestions = [];

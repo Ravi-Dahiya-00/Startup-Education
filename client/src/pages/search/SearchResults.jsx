@@ -252,7 +252,7 @@ const SearchResults = () => {
         <div className="search-header">
           <h1 className="search-page-title">
             Search Results
-            {query && <span className="text-gradient"> for "{query}"</span>}
+            {query && <span className="text-gradient" style={{ wordBreak: 'break-all', overflowWrap: 'break-word' }}> for "{query}"</span>}
           </h1>
 
           {/* Enhanced Search Bar */}
@@ -264,6 +264,7 @@ const SearchResults = () => {
               onChange={(e) => setSearchQuery(e.target.value)}
               placeholder="Search across all opportunities..."
               className="search-bar-input"
+              maxLength={100}
             />
             {searchQuery && (
               <button

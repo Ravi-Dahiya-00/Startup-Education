@@ -105,6 +105,7 @@ app.use("/api/blogs", blogRoutes);
 app.use("/api/scholarships", scholarshipRoutes);
 app.use("/api/notes", noteRoutes);
 app.use("/api/auth", authRoutes);
+app.use("/api/admin", require("./routes/admin")); // Admin verification route
 app.use("/api/structure", structureRoutes);
 app.use("/api/smart", smartRoutes); // New
 app.use("/api/search", searchRoutes); // Global search

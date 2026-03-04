@@ -43,7 +43,7 @@ import AdminBlogs from './pages/admin/AdminBlogs';
 import AdminScholarships from './pages/admin/AdminScholarships';
 import AdminNotes from './pages/admin/AdminNotes';
 import JobParser from './pages/admin/JobParser';
-
+import AdminGuard from './components/AdminGuard';
 
 function App() {
   return (
@@ -80,16 +80,15 @@ function App() {
             <Route path="/profile" element={<Profile />} />
 
             {/* Admin Routes */}
-            <Route path="/admin" element={<AdminDashboard />} />
-            <Route path="/admin/internships" element={<AdminInternships />} />
-            <Route path="/admin/jobs" element={<AdminJobs />} />
-            <Route path="/admin/competitions" element={<AdminCompetitions />} />
-            <Route path="/admin/courses" element={<AdminCourses />} />
-            <Route path="/admin/blogs" element={<AdminBlogs />} />
-            <Route path="/admin/scholarships" element={<AdminScholarships />} />
-            <Route path="/admin/notes" element={<AdminNotes />} />
-            <Route path="/admin/notes" element={<AdminNotes />} />
-            <Route path="/admin/parse-job" element={<JobParser />} />
+            <Route path="/admin" element={<AdminGuard><AdminDashboard /></AdminGuard>} />
+            <Route path="/admin/internships" element={<AdminGuard><AdminInternships /></AdminGuard>} />
+            <Route path="/admin/jobs" element={<AdminGuard><AdminJobs /></AdminGuard>} />
+            <Route path="/admin/competitions" element={<AdminGuard><AdminCompetitions /></AdminGuard>} />
+            <Route path="/admin/courses" element={<AdminGuard><AdminCourses /></AdminGuard>} />
+            <Route path="/admin/blogs" element={<AdminGuard><AdminBlogs /></AdminGuard>} />
+            <Route path="/admin/scholarships" element={<AdminGuard><AdminScholarships /></AdminGuard>} />
+            <Route path="/admin/notes" element={<AdminGuard><AdminNotes /></AdminGuard>} />
+            <Route path="/admin/parse-job" element={<AdminGuard><JobParser /></AdminGuard>} />
           </Routes>
         
 
