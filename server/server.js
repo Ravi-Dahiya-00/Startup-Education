@@ -139,9 +139,24 @@ const startCleanupJob = require("./cron/cleanup");
 // Start Cron Job
 // startCleanupJob();
 
-// Global 404 Handler - Prevents HTML fallback
-app.use((req, res) => {
+// Global 404 Handler
+app.use((req, res, next) => {
   res.status(404).json({ message: "API Route not found" });
+});
+
+// Final Error Handling Middleware so Vercel outputs the crash trace to the browser
+app.use((err, req, res, next) => {
+  console.error("🔥 FATAL EXPRESS ERROR:", err.stack);
+  res.status(500).send(`
+    <h1>Internal Server Error</h1>
+    <p>The Vercel Serverless Function crashed during execution.</p>
+    <pre style="background:#222;color:#f88;padding:15px;border-radius:5px;">${err.stack}</pre>
+  `);
+});
+
+// Also try to catch top-level Node.js crashes
+process.on('uncaughtException', (err) => {
+  console.error("🔥 UNCAUGHT FATAL EXCEPTION:", err);
 });
 
 if (process.env.NODE_ENV !== 'production') {
