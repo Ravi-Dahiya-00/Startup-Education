@@ -14,10 +14,48 @@ if (!process.env.JWT_SECRET) {
   process.exit(1);
 }
 
+// Security specific middlewares
+const rateLimit = require("express-rate-limit");
+const mongoSanitize = require("express-mongo-sanitize");
+
 // Middleware
-app.use(helmet({ contentSecurityPolicy: false }));
-app.use(cors());
+app.use(helmet()); // Enable default secure headers (including CSP)
+
+// Restrict CORS to authorized frontend domains
+const allowedOrigins = [
+  "https://startup-education-six.vercel.app",
+  "https://client-mu-one-28.vercel.app",
+  "http://localhost:5173",
+  "http://localhost:3000"
+];
+app.use(
+  cors({
+    origin: function (origin, callback) {
+      if (!origin || allowedOrigins.includes(origin)) {
+        callback(null, true);
+      } else {
+        callback(new Error("Not allowed by CORS"));
+      }
+    },
+    credentials: true,
+  })
+);
+
 app.use(express.json());
+
+// Prevent NoSQL Injection by sanitizing user input
+app.use(mongoSanitize());
+
+// Apply rate limiting to all API requests
+const apiLimiter = rateLimit({
+  windowMs: 15 * 60 * 1000, // 15 minutes
+  max: 100, // Limit each IP to 100 requests per `window` (here, per 15 minutes)
+  standardHeaders: true, // Return rate limit info in the `RateLimit-*` headers
+  legacyHeaders: false, // Disable the `X-RateLimit-*` headers
+  message: { message: "Too many requests, please try again later." },
+});
+app.use("/api/", apiLimiter);
+
 app.use("/uploads", express.static("uploads")); // Serve uploaded files
 
 // Fix for Google Auth Cross-Origin-Opener-Policy

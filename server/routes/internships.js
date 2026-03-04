@@ -1,6 +1,7 @@
 const express = require('express');
 const router = express.Router();
 const Internship = require('../models/Internship');
+const auth = require('../middleware/auth');
 
 // GET all internships with filtering
 router.get('/', async (req, res) => {
@@ -66,7 +67,7 @@ router.get('/:id', async (req, res) => {
 });
 
 // POST a new internship
-router.post('/', async (req, res) => {
+router.post('/', auth, async (req, res) => {
   const internship = new Internship(req.body);
 
   try {

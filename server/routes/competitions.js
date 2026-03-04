@@ -1,6 +1,7 @@
 const express = require('express');
 const router = express.Router();
 const Competition = require('../models/Competition');
+const auth = require('../middleware/auth');
 
 // GET all competitions
 router.get('/', async (req, res) => {
@@ -13,7 +14,7 @@ router.get('/', async (req, res) => {
 });
 
 // POST a new competition
-router.post('/', async (req, res) => {
+router.post('/', auth, async (req, res) => {
   const competition = new Competition({
     title: req.body.title,
     organizer: req.body.organizer,

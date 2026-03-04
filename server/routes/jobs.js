@@ -1,6 +1,7 @@
 const express = require('express');
 const router = express.Router();
 const Job = require('../models/Job');
+const auth = require('../middleware/auth');
 
 // GET all jobs with filtering
 router.get('/', async (req, res) => {
@@ -66,7 +67,7 @@ router.get('/:id', async (req, res) => {
 });
 
 // POST a new job
-router.post('/', async (req, res) => {
+router.post('/', auth, async (req, res) => {
   const job = new Job(req.body);
 
   try {
