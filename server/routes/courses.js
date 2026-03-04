@@ -2,6 +2,7 @@ const express = require('express');
 const router = express.Router();
 const Course = require('../models/Course');
 const auth = require('../middleware/auth');
+const { adminAuth } = require('../middleware/adminAuth');
 
 // GET all courses
 router.get('/', async (req, res) => {
@@ -27,7 +28,7 @@ router.get('/:id', async (req, res) => {
 });
 
 // POST a new course
-router.post('/', auth, async (req, res) => {
+router.post('/', adminAuth, async (req, res) => {
   const course = new Course({
     title: req.body.title,
     instructor: req.body.instructor,
@@ -60,7 +61,7 @@ router.post('/', auth, async (req, res) => {
 });
 
 // PUT update course
-router.put('/:id', auth, async (req, res) => {
+router.put('/:id', adminAuth, async (req, res) => {
   try {
     const course = await Course.findByIdAndUpdate(
       req.params.id,
@@ -77,7 +78,7 @@ router.put('/:id', auth, async (req, res) => {
 });
 
 // DELETE course
-router.delete('/:id', auth, async (req, res) => {
+router.delete('/:id', adminAuth, async (req, res) => {
   try {
     const course = await Course.findByIdAndDelete(req.params.id);
     if (!course) {

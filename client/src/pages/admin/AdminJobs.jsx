@@ -125,7 +125,10 @@ const AdminJobs = () => {
     try {
       const response = await fetch(`${API_URL}/api/jobs`, {
         method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
+        headers: { 
+          'Content-Type': 'application/json',
+          'x-admin-passkey': sessionStorage.getItem('adminPasskey')
+        },
         body: JSON.stringify(payload)
       });
 

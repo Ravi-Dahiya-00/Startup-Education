@@ -1,7 +1,8 @@
 const express = require('express');
 const router = express.Router();
 const Scholarship = require('../models/Scholarship');
-
+const auth = require('../middleware/auth');
+const { adminAuth } = require('../middleware/adminAuth');
 // GET all scholarships
 router.get('/', async (req, res) => {
   try {
@@ -26,7 +27,7 @@ router.get('/:id', async (req, res) => {
 });
 
 // POST a new scholarship
-router.post('/', async (req, res) => {
+router.post('/', adminAuth, async (req, res) => {
   const scholarship = new Scholarship({
     title: req.body.title,
     provider: req.body.provider,

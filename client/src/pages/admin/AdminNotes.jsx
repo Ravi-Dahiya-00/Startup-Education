@@ -24,7 +24,10 @@ const AdminNotes = () => {
     try {
       const response = await fetch(`${API_URL}/api/notes`, {
         method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
+        headers: { 
+          'Content-Type': 'application/json',
+          'x-admin-passkey': sessionStorage.getItem('adminPasskey')
+        },
         body: JSON.stringify(formData)
       });
       if (response.ok) {

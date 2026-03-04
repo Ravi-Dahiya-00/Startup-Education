@@ -27,7 +27,10 @@ const AdminBlogs = () => {
     try {
       const response = await fetch(`${API_URL}/api/blogs`, {
         method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
+        headers: { 
+          'Content-Type': 'application/json',
+          'x-admin-passkey': sessionStorage.getItem('adminPasskey')
+        },
         body: JSON.stringify(payload)
       });
       if (response.ok) {
