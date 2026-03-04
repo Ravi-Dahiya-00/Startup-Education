@@ -40,11 +40,11 @@ const AdminGuard = ({ children }) => {
       
       if (!isSilent) {
         if (err.response?.status === 429) {
-          setError('Too many failed attempts. Your IP has been blocked for 30 minutes.');
+          setError('Too many authentication attempts. Please try again later after 30 minutes.');
         } else if (err.response?.status === 401) {
-          setError('Invalid passkey. Access denied.');
+          setError('Authentication failed. Please verify your credentials.');
         } else {
-          setError('Server error connecting to verification service.');
+          setError('Unable to verify credentials at the moment. Please try again later.');
         }
       }
     } finally {
