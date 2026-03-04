@@ -22,7 +22,6 @@ app.use(helmet()); // Enable default secure headers (including CSP)
 // Restrict CORS to authorized frontend domains
 const allowedOrigins = [
   "https://startup-education-six.vercel.app",
-  "https://client-mu-one-28.vercel.app",
   "http://localhost:5173",
   "http://localhost:3000"
 ];
