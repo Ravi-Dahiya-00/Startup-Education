@@ -1,6 +1,7 @@
 const mongoose = require('mongoose');
 
 const internshipSchema = new mongoose.Schema({
+  slug: { type: String, unique: true, sparse: true, index: true },
   role: { type: String, required: true },
   company: { type: String, required: true },
   companyWebsite: { type: String, default: '' },

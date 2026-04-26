@@ -1,6 +1,6 @@
 import os
 
-root = r"c:\MY Coding\Startup Education"
+root = r"E:\coding backup\Startup Education"
 exclude_dirs = {'.git', 'node_modules', 'dist', 'build', 'coverage', '.vscode', '.agent', '__pycache__', '.gemini'}
 exclude_files = {'package-lock.json', 'yarn.lock', 'line_counter.py'}
 binary_extensions = {'.png', '.jpg', '.jpeg', '.gif', '.ico', '.pdf', '.exe', '.dll', '.bin', '.zip', '.tar', '.gz', '.mp4', '.mp3', '.pyc', '.class'}

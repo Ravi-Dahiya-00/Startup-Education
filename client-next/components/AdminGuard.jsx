@@ -1,7 +1,9 @@
+"use client";
+
 import React, { useState, useEffect } from 'react';
 import { Lock, AlertCircle, ShieldCheck } from 'lucide-react';
 import axios from 'axios';
-import API_URL from '../config/api';
+import API_URL from '@/lib/api';
 
 const AdminGuard = ({ children }) => {
   const [isAuthenticated, setIsAuthenticated] = useState(false);

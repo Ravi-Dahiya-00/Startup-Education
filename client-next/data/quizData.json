@@ -1,0 +1,220 @@
+{
+  "quizzes": [
+    {
+      "id": "python-basics",
+      "title": "Python Basics",
+      "description": "Test your knowledge of Python fundamentals including variables, data types, and control flow.",
+      "icon": "🐍",
+      "color": "#3776ab",
+      "questionCount": 5,
+      "estimatedTime": 5,
+      "difficulty": "Beginner",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What is the correct way to create a variable in Python?",
+          "options": [
+            "int x = 5",
+            "x = 5",
+            "var x = 5",
+            "let x = 5"
+          ],
+          "correctIndex": 1,
+          "explanation": "In Python, variables are created by simply assigning a value using the '=' operator. No type declaration is needed as Python is dynamically typed."
+        },
+        {
+          "id": 2,
+          "question": "Which data type is used to store a sequence of characters in Python?",
+          "options": [
+            "char",
+            "text",
+            "string",
+            "str"
+          ],
+          "correctIndex": 3,
+          "explanation": "In Python, the 'str' data type is used to represent strings. It's short for 'string' and is one of Python's built-in data types."
+        },
+        {
+          "id": 3,
+          "question": "What will be the output of: print(type([1, 2, 3]))?",
+          "options": [
+            "<class 'tuple'>",
+            "<class 'list'>",
+            "<class 'array'>",
+            "<class 'set'>"
+          ],
+          "correctIndex": 1,
+          "explanation": "Square brackets [] create a list in Python. Lists are ordered, mutable collections that can hold items of different types."
+        },
+        {
+          "id": 4,
+          "question": "Which keyword is used to define a function in Python?",
+          "options": [
+            "function",
+            "func",
+            "def",
+            "define"
+          ],
+          "correctIndex": 2,
+          "explanation": "The 'def' keyword is used to define functions in Python, followed by the function name and parentheses containing any parameters."
+        },
+        {
+          "id": 5,
+          "question": "What is the output of: print(2 ** 3)?",
+          "options": [
+            "6",
+            "8",
+            "5",
+            "9"
+          ],
+          "correctIndex": 1,
+          "explanation": "The '**' operator in Python represents exponentiation. So 2 ** 3 means 2 raised to the power of 3, which equals 8."
+        }
+      ]
+    },
+    {
+      "id": "c-fundamentals",
+      "title": "C Fundamentals",
+      "description": "Assess your understanding of C programming basics including syntax, pointers, and memory.",
+      "icon": "⚙️",
+      "color": "#00599c",
+      "questionCount": 5,
+      "estimatedTime": 6,
+      "difficulty": "Intermediate",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Which header file is required for using printf() in C?",
+          "options": [
+            "stdlib.h",
+            "string.h",
+            "stdio.h",
+            "conio.h"
+          ],
+          "correctIndex": 2,
+          "explanation": "The stdio.h (Standard Input/Output) header file contains declarations for input/output functions like printf() and scanf()."
+        },
+        {
+          "id": 2,
+          "question": "What is the size of 'int' data type in a 32-bit system?",
+          "options": [
+            "2 bytes",
+            "4 bytes",
+            "8 bytes",
+            "Depends on compiler"
+          ],
+          "correctIndex": 1,
+          "explanation": "In most 32-bit systems and compilers, an 'int' typically occupies 4 bytes (32 bits), though technically it can vary by implementation."
+        },
+        {
+          "id": 3,
+          "question": "What does the '&' operator do when used with a variable?",
+          "options": [
+            "Logical AND",
+            "Returns the address of the variable",
+            "Bitwise AND",
+            "Multiplication"
+          ],
+          "correctIndex": 1,
+          "explanation": "The '&' operator, when used before a variable name (unary operator), returns the memory address of that variable. It's essential for working with pointers."
+        },
+        {
+          "id": 4,
+          "question": "Which loop is guaranteed to execute at least once?",
+          "options": [
+            "for loop",
+            "while loop",
+            "do-while loop",
+            "All of the above"
+          ],
+          "correctIndex": 2,
+          "explanation": "The do-while loop checks its condition at the end of each iteration, so the loop body always executes at least once before the condition is evaluated."
+        },
+        {
+          "id": 5,
+          "question": "What is the correct way to declare a pointer to an integer?",
+          "options": [
+            "int p;",
+            "int *p;",
+            "pointer int p;",
+            "*int p;"
+          ],
+          "correctIndex": 1,
+          "explanation": "In C, 'int *p' declares a pointer to an integer. The asterisk (*) indicates that the variable p will hold the address of an integer value."
+        }
+      ]
+    },
+    {
+      "id": "dbms-essentials",
+      "title": "DBMS Essentials",
+      "description": "Evaluate your knowledge of database concepts, SQL queries, and normalization.",
+      "icon": "🗄️",
+      "color": "#f29111",
+      "questionCount": 5,
+      "estimatedTime": 5,
+      "difficulty": "Beginner",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What does SQL stand for?",
+          "options": [
+            "Structured Query Language",
+            "Simple Query Language",
+            "Standard Query Logic",
+            "System Query Language"
+          ],
+          "correctIndex": 0,
+          "explanation": "SQL stands for Structured Query Language. It's the standard language for managing and manipulating relational databases."
+        },
+        {
+          "id": 2,
+          "question": "Which SQL command is used to retrieve data from a database?",
+          "options": [
+            "GET",
+            "FETCH",
+            "SELECT",
+            "RETRIEVE"
+          ],
+          "correctIndex": 2,
+          "explanation": "The SELECT statement is used to retrieve data from one or more tables in a database. It's the most commonly used SQL command."
+        },
+        {
+          "id": 3,
+          "question": "What is a primary key?",
+          "options": [
+            "Any column in a table",
+            "A unique identifier for each record in a table",
+            "The first column of a table",
+            "A key used to encrypt data"
+          ],
+          "correctIndex": 1,
+          "explanation": "A primary key is a column (or combination of columns) that uniquely identifies each row in a table. It cannot contain NULL values and must be unique."
+        },
+        {
+          "id": 4,
+          "question": "Which normal form eliminates partial dependencies?",
+          "options": [
+            "First Normal Form (1NF)",
+            "Second Normal Form (2NF)",
+            "Third Normal Form (3NF)",
+            "BCNF"
+          ],
+          "correctIndex": 1,
+          "explanation": "Second Normal Form (2NF) eliminates partial dependencies by ensuring all non-key attributes are fully dependent on the entire primary key, not just part of it."
+        },
+        {
+          "id": 5,
+          "question": "What type of JOIN returns all rows from both tables?",
+          "options": [
+            "INNER JOIN",
+            "LEFT JOIN",
+            "RIGHT JOIN",
+            "FULL OUTER JOIN"
+          ],
+          "correctIndex": 3,
+          "explanation": "FULL OUTER JOIN returns all rows from both tables, with NULL values in places where there is no match in the other table."
+        }
+      ]
+    }
+  ]
+}
